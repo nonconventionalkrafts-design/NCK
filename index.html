@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>NonConventionalKrafts — Old World Design and Craft</title>
 <meta name="description" content="NonConventionalKrafts is a Solana Beach, CA custom woodworking and design shop building made-to-order furniture and built-ins in wood, steel, and concrete.">
+<link rel="icon" type="image/png" sizes="32x32" href="images/logo/favicon-32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="images/logo/favicon-180.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,450;0,9..144,600;0,9..144,700;1,9..144,450&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -242,6 +244,32 @@
 
   /* ---------- GALLERY ---------- */
   .gallery{background:var(--parchment);}
+  .gallery-filters{
+    display:flex;flex-wrap:wrap;gap:0.6rem;margin-bottom:2rem;
+  }
+  .filter-pill{
+    font-family:'IBM Plex Mono',monospace;font-size:0.7rem;
+    letter-spacing:0.06em;text-transform:uppercase;
+    color:var(--walnut);background:none;cursor:pointer;
+    border:1px solid rgba(176,141,87,0.5);border-radius:2px;
+    padding:0.45rem 0.9rem;transition:background .2s ease, color .2s ease;
+  }
+  .filter-pill:hover{background:rgba(176,141,87,0.15);}
+  .filter-pill.active{background:var(--walnut);color:var(--parchment);border-color:var(--walnut);}
+  .gallery-empty{
+    font-family:'IBM Plex Mono',monospace;font-size:0.85rem;
+    color:var(--steel);padding:2rem 0;
+  }
+  .gallery-loadmore{display:flex;justify-content:center;margin-top:2.5rem;}
+  .btn-outline{
+    display:inline-flex;align-items:center;gap:0.7rem;
+    font-family:'IBM Plex Mono',monospace;font-size:0.78rem;
+    letter-spacing:0.08em;text-transform:uppercase;
+    background:none;color:var(--walnut);cursor:pointer;
+    padding:0.85rem 1.6rem;border:1px solid var(--walnut);
+    transition:background .25s ease, color .25s ease;
+  }
+  .btn-outline:hover{background:var(--walnut);color:var(--parchment);}
   .gallery-grid{
     display:grid;grid-template-columns:repeat(4,1fr);gap:1rem;
   }
@@ -528,25 +556,10 @@
     </div>
     <p>A running look at pieces in progress and installed &mdash; click any photo to see it larger.</p>
   </div>
-  <div class="gallery-grid reveal">
-    <button type="button" class="gallery-item" data-full="images/work/live-edge-torrey-pine-sanding.jpg" data-caption="Torrey pine slab — sanding">
-      <img src="images/work/thumbs/live-edge-torrey-pine-sanding.jpg" loading="lazy" alt="Live-edge torrey pine slab being sanded">
-    </button>
-    <button type="button" class="gallery-item" data-full="images/work/live-edge-torrey-pine-char.jpg" data-caption="Torrey pine slab — char finish">
-      <img src="images/work/thumbs/live-edge-torrey-pine-char.jpg" loading="lazy" alt="Live-edge torrey pine slab with a charred finish">
-    </button>
-    <button type="button" class="gallery-item" data-full="images/work/live-edge-complete.jpg" data-caption="Live-edge slab — complete">
-      <img src="images/work/thumbs/live-edge-complete.jpg" loading="lazy" alt="Completed live-edge slab">
-    </button>
-    <button type="button" class="gallery-item" data-full="images/work/live-edge-installed-before-clearcoat.jpg" data-caption="Installed — before clear coat">
-      <img src="images/work/thumbs/live-edge-installed-before-clearcoat.jpg" loading="lazy" alt="Live-edge bar top installed, before clear coat">
-    </button>
-    <button type="button" class="gallery-item" data-full="images/work/live-edge-installed-clearcoat.jpg" data-caption="Installed — with clear coat">
-      <img src="images/work/thumbs/live-edge-installed-clearcoat.jpg" loading="lazy" alt="Live-edge bar top installed, finished with clear coat">
-    </button>
-    <button type="button" class="gallery-item" data-full="images/work/live-edge-installed-clearcoat-back.jpg" data-caption="Installed — back of bar">
-      <img src="images/work/thumbs/live-edge-installed-clearcoat-back.jpg" loading="lazy" alt="Back of the finished live-edge bar, installed">
-    </button>
+  <div class="gallery-filters reveal" id="galleryFilters"></div>
+  <div class="gallery-grid reveal" id="galleryGrid"></div>
+  <div class="gallery-loadmore" id="galleryLoadMore" hidden>
+    <button type="button" class="btn-outline" id="galleryLoadMoreBtn">Load More</button>
   </div>
 </section>
 
@@ -620,18 +633,98 @@
   }, { threshold: 0.12 });
   document.querySelectorAll('.reveal').forEach(el => io.observe(el));
 
-  const galleryItems = Array.from(document.querySelectorAll('.gallery-item'));
+  const WORK_PHOTOS = [
+    { category: 'work', slug: 'live-edge-torrey-pine-sanding', title: 'Torrey pine slab — sanding', full: 'images/work/live-edge-torrey-pine-sanding.jpg', thumb: 'images/work/thumbs/live-edge-torrey-pine-sanding.jpg' },
+    { category: 'work', slug: 'live-edge-torrey-pine-char', title: 'Torrey pine slab — char finish', full: 'images/work/live-edge-torrey-pine-char.jpg', thumb: 'images/work/thumbs/live-edge-torrey-pine-char.jpg' },
+    { category: 'work', slug: 'live-edge-complete', title: 'Live-edge slab — complete', full: 'images/work/live-edge-complete.jpg', thumb: 'images/work/thumbs/live-edge-complete.jpg' },
+    { category: 'work', slug: 'live-edge-installed-before-clearcoat', title: 'Installed — before clear coat', full: 'images/work/live-edge-installed-before-clearcoat.jpg', thumb: 'images/work/thumbs/live-edge-installed-before-clearcoat.jpg' },
+    { category: 'work', slug: 'live-edge-installed-clearcoat', title: 'Installed — with clear coat', full: 'images/work/live-edge-installed-clearcoat.jpg', thumb: 'images/work/thumbs/live-edge-installed-clearcoat.jpg' },
+    { category: 'work', slug: 'live-edge-installed-clearcoat-back', title: 'Installed — back of bar', full: 'images/work/live-edge-installed-clearcoat-back.jpg', thumb: 'images/work/thumbs/live-edge-installed-clearcoat-back.jpg' }
+  ];
+
+  const CATEGORY_LABELS = {
+    all: 'All',
+    work: 'Live-Edge Bar',
+    'coffee-nook': 'Coffee Nook',
+    'la-cantina': 'La Cantina',
+    landscape: 'Landscape & Hardscape',
+    'zipline-platform': 'Zipline Platform',
+    'pool-house': 'Pool House',
+    'gate-fence': 'Gates & Fencing',
+    woodshop: 'Woodshop',
+    'custom-corbel': 'Custom Corbels',
+    'dart-board-enclosure': 'Dart Board Enclosure',
+    misc: 'More'
+  };
+  const CATEGORY_ORDER = Object.keys(CATEGORY_LABELS);
+  const PAGE_SIZE = 24;
+
+  const filtersEl = document.getElementById('galleryFilters');
+  const gridEl = document.getElementById('galleryGrid');
+  const loadMoreWrap = document.getElementById('galleryLoadMore');
+  const loadMoreBtn = document.getElementById('galleryLoadMoreBtn');
   const lightbox = document.getElementById('lightbox');
   const lightboxImg = document.getElementById('lightboxImg');
   const lightboxCaption = document.getElementById('lightboxCaption');
+
+  let allPhotos = WORK_PHOTOS;
+  let currentFilter = 'all';
+  let visibleCount = PAGE_SIZE;
+  let currentList = [];
   let currentIndex = 0;
 
+  function filteredPhotos() {
+    return currentFilter === 'all' ? allPhotos : allPhotos.filter(p => p.category === currentFilter);
+  }
+
+  function renderFilters() {
+    const present = new Set(allPhotos.map(p => p.category));
+    const cats = ['all', ...CATEGORY_ORDER.filter(c => c !== 'all' && present.has(c))];
+    filtersEl.innerHTML = '';
+    cats.forEach(cat => {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'filter-pill' + (cat === currentFilter ? ' active' : '');
+      btn.textContent = CATEGORY_LABELS[cat] || cat;
+      btn.addEventListener('click', () => {
+        currentFilter = cat;
+        visibleCount = PAGE_SIZE;
+        renderFilters();
+        renderGrid();
+      });
+      filtersEl.appendChild(btn);
+    });
+  }
+
+  function renderGrid() {
+    const photos = filteredPhotos();
+    currentList = photos.slice(0, visibleCount);
+    gridEl.innerHTML = '';
+    if (!currentList.length) {
+      gridEl.innerHTML = '<p class="gallery-empty">No photos in this category yet.</p>';
+    }
+    currentList.forEach((photo, index) => {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'gallery-item';
+      btn.dataset.index = String(index);
+      const img = document.createElement('img');
+      img.src = photo.thumb;
+      img.loading = 'lazy';
+      img.alt = photo.title;
+      btn.appendChild(img);
+      btn.addEventListener('click', () => openLightbox(index));
+      gridEl.appendChild(btn);
+    });
+    loadMoreWrap.hidden = photos.length <= visibleCount;
+  }
+
   function openLightbox(index) {
-    currentIndex = (index + galleryItems.length) % galleryItems.length;
-    const item = galleryItems[currentIndex];
-    lightboxImg.src = item.dataset.full;
-    lightboxImg.alt = item.querySelector('img').alt;
-    lightboxCaption.textContent = item.dataset.caption || '';
+    currentIndex = (index + currentList.length) % currentList.length;
+    const photo = currentList[currentIndex];
+    lightboxImg.src = photo.full;
+    lightboxImg.alt = photo.title;
+    lightboxCaption.textContent = photo.title;
     lightbox.classList.add('open');
   }
 
@@ -639,8 +732,9 @@
     lightbox.classList.remove('open');
   }
 
-  galleryItems.forEach((item, index) => {
-    item.addEventListener('click', () => openLightbox(index));
+  loadMoreBtn.addEventListener('click', () => {
+    visibleCount += PAGE_SIZE;
+    renderGrid();
   });
   document.getElementById('lightboxClose').addEventListener('click', closeLightbox);
   document.getElementById('lightboxPrev').addEventListener('click', () => openLightbox(currentIndex - 1));
@@ -652,6 +746,20 @@
     if (e.key === 'ArrowLeft') openLightbox(currentIndex - 1);
     if (e.key === 'ArrowRight') openLightbox(currentIndex + 1);
   });
+
+  renderFilters();
+  renderGrid();
+
+  fetch('images/manifest.json')
+    .then(r => r.ok ? r.json() : [])
+    .catch(() => [])
+    .then(drivePhotos => {
+      if (Array.isArray(drivePhotos) && drivePhotos.length) {
+        allPhotos = WORK_PHOTOS.concat(drivePhotos);
+        renderFilters();
+        renderGrid();
+      }
+    });
 </script>
 
 </body>
