@@ -82,5 +82,54 @@
   "title": "Dart Board Enclosure 3.jpeg",
   "full": "images/dart-board-enclosure/dart-board-enclosure-3.jpg",
   "thumb": "images/dart-board-enclosure/thumbs/dart-board-enclosure-3.jpg"
+ },
+ {
+  "category": "gate-fence",
+  "slug": "custom-gate-installed",
+  "title": "Custom Gate Installed.jpeg",
+  "full": "images/gate-fence/custom-gate-installed.jpg",
+  "thumb": "images/gate-fence/thumbs/custom-gate-installed.jpg"
+ },
+ {
+  "category": "gate-fence",
+  "slug": "basic-fence-before-custom-gate-install",
+  "title": "Basic Fence - Before Custom Gate Install.jpeg",
+  "full": "images/gate-fence/basic-fence-before-custom-gate-install.jpg",
+  "thumb": "images/gate-fence/thumbs/basic-fence-before-custom-gate-install.jpg"
+ },
+ {
+  "category": "gate-fence",
+  "slug": "basic-fence",
+  "title": "Basic Fence.jpeg",
+  "full": "images/gate-fence/basic-fence.jpg",
+  "thumb": "images/gate-fence/thumbs/basic-fence.jpg"
+ },
+ {
+  "category": "gate-fence",
+  "slug": "cedar-gate-with-nck",
+  "title": "Cedar Gate with NCK.jpeg",
+  "full": "images/gate-fence/cedar-gate-with-nck.jpg",
+  "thumb": "images/gate-fence/thumbs/cedar-gate-with-nck.jpg"
+ },
+ {
+  "category": "gate-fence",
+  "slug": "custom-gate-progress",
+  "title": "Custom Gate Progress.jpeg",
+  "full": "images/gate-fence/custom-gate-progress.jpg",
+  "thumb": "images/gate-fence/thumbs/custom-gate-progress.jpg"
+ },
+ {
+  "category": "gate-fence",
+  "slug": "basic-fence-horizontal-cedar-planking",
+  "title": "Basic Fence - Horizontal Cedar Planking.jpeg",
+  "full": "images/gate-fence/basic-fence-horizontal-cedar-planking.jpg",
+  "thumb": "images/gate-fence/thumbs/basic-fence-horizontal-cedar-planking.jpg"
+ },
+ {
+  "category": "gate-fence",
+  "slug": "custom-gate-frame",
+  "title": "Custom Gate - Frame.jpeg",
+  "full": "images/gate-fence/custom-gate-frame.jpg",
+  "thumb": "images/gate-fence/thumbs/custom-gate-frame.jpg"
  }
 ]
