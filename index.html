@@ -677,6 +677,10 @@
     return currentFilter === 'all' ? allPhotos : allPhotos.filter(p => p.category === currentFilter);
   }
 
+  function caption(photo) {
+    return (photo.title || '').replace(/\.(jpe?g|png|heic)$/i, '').trim();
+  }
+
   function renderFilters() {
     const present = new Set(allPhotos.map(p => p.category));
     const cats = ['all', ...CATEGORY_ORDER.filter(c => c !== 'all' && present.has(c))];
@@ -711,7 +715,7 @@
       const img = document.createElement('img');
       img.src = photo.thumb;
       img.loading = 'lazy';
-      img.alt = photo.title;
+      img.alt = caption(photo);
       btn.appendChild(img);
       btn.addEventListener('click', () => openLightbox(index));
       gridEl.appendChild(btn);
@@ -723,8 +727,8 @@
     currentIndex = (index + currentList.length) % currentList.length;
     const photo = currentList[currentIndex];
     lightboxImg.src = photo.full;
-    lightboxImg.alt = photo.title;
-    lightboxCaption.textContent = photo.title;
+    lightboxImg.alt = caption(photo);
+    lightboxCaption.textContent = caption(photo);
     lightbox.classList.add('open');
   }
 
