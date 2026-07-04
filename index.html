@@ -5,6 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>NonConventionalKrafts — Old World Design and Craft</title>
 <meta name="description" content="NonConventionalKrafts is a Solana Beach, CA custom woodworking and design shop building made-to-order furniture and built-ins in wood, steel, and concrete.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="NonConventionalKrafts — Old World Design &amp; Craft">
+<meta property="og:description" content="Custom woodwork, landscape, and built-ins in Solana Beach, CA. Old world craft, made to be felt.">
+<meta property="og:url" content="https://nonconventionalkrafts-design.github.io/NCK/">
+<meta property="og:image" content="https://nonconventionalkrafts-design.github.io/NCK/images/og-cover.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="NonConventionalKrafts — Old World Design &amp; Craft">
+<meta name="twitter:description" content="Custom woodwork, landscape, and built-ins in Solana Beach, CA. Old world craft, made to be felt.">
+<meta name="twitter:image" content="https://nonconventionalkrafts-design.github.io/NCK/images/og-cover.jpg">
 <link rel="icon" type="image/png" sizes="32x32" href="images/logo/favicon-32.png">
 <link rel="apple-touch-icon" sizes="180x180" href="images/logo/favicon-180.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,6 +32,7 @@
     --steel:#6b6e70;
     --ember:#a8481c;
     --line: rgba(176,141,87,0.35);
+    --paper: url("data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'160'%20height%3D'160'%3E%3Cfilter%20id%3D'n'%3E%3CfeTurbulence%20type%3D'fractalNoise'%20baseFrequency%3D'0.8'%20numOctaves%3D'2'%20stitchTiles%3D'stitch'%2F%3E%3CfeColorMatrix%20type%3D'matrix'%20values%3D'0%200%200%200%200.11%200%200%200%200%200.085%200%200%200%200%200.06%200%200%200%200.07%200'%2F%3E%3C%2Ffilter%3E%3Crect%20width%3D'100%25'%20height%3D'100%25'%20filter%3D'url(%23n)'%2F%3E%3C%2Fsvg%3E");
   }
   *{margin:0;padding:0;box-sizing:border-box;}
   html{scroll-behavior:smooth;}
@@ -56,20 +68,11 @@
   }
   .brandmark{display:flex;align-items:center;gap:0.7rem;}
   .badge{
-    width:38px;height:38px;border-radius:50%;
-    border:1.5px solid var(--brass);
+    width:46px;height:46px;
     display:flex;align-items:center;justify-content:center;
-    position:relative;
     flex-shrink:0;
   }
-  .badge::before{
-    content:'';position:absolute;inset:4px;
-    border:1px solid rgba(176,141,87,0.5);border-radius:50%;
-  }
-  .badge span{
-    font-family:'Fraunces',serif;font-weight:700;font-size:0.85rem;
-    color:var(--parchment);
-  }
+  .badge img{width:100%;height:100%;object-fit:contain;}
   .wordmark{
     font-family:'Fraunces',serif;color:var(--parchment);
     font-size:1.05rem;letter-spacing:0.03em;font-weight:600;
@@ -213,7 +216,7 @@
   .piece-photo img{
     position:absolute;inset:0;width:100%;height:100%;
     object-fit:cover;
-    filter:saturate(0.95) contrast(1.03);
+    filter:saturate(0.94) contrast(1.03) sepia(0.06);
     transition:transform .6s ease;
   }
   .piece:hover .piece-photo img{transform:scale(1.045);}
@@ -291,7 +294,7 @@
   }
   .gallery-item img{
     width:100%;height:100%;object-fit:cover;
-    filter:saturate(0.95) contrast(1.03);
+    filter:saturate(0.94) contrast(1.03) sepia(0.06);
     transition:transform .5s ease;
   }
   .gallery-item:hover img{transform:scale(1.06);}
@@ -387,11 +390,34 @@
   /* ---------- FOOTER ---------- */
   footer{
     background:var(--ink);color:var(--steel);
-    padding:2.4rem 5vw;
-    display:flex;justify-content:space-between;align-items:center;
-    gap:1rem 2rem;flex-wrap:wrap;
+    padding:3rem 5vw;
+    display:flex;flex-direction:column;align-items:center;gap:1.4rem;
+    text-align:center;
     border-top:1px solid rgba(176,141,87,0.15);
     font-family:'IBM Plex Mono',monospace;font-size:0.7rem;letter-spacing:0.05em;
+  }
+  .footer-mark{height:52px;opacity:0.85;}
+  .footer-lines{
+    display:flex;justify-content:center;gap:0.8rem 2rem;flex-wrap:wrap;
+  }
+
+  /* ---------- PAPER TEXTURE (light sections) ---------- */
+  .materials, .process, .gallery{background-image:var(--paper);}
+
+  /* ---------- ORNAMENT DIVIDER ---------- */
+  .ornament{
+    background:var(--parchment);background-image:var(--paper);
+    display:flex;align-items:center;justify-content:center;gap:1.1rem;
+    padding:3.2rem 5vw;
+  }
+  .ornament::before, .ornament::after{
+    content:'';height:1px;width:min(90px,18vw);
+  }
+  .ornament::before{background:linear-gradient(90deg,transparent,var(--brass));}
+  .ornament::after{background:linear-gradient(90deg,var(--brass),transparent);}
+  .ornament span{
+    color:var(--brass);font-size:0.7rem;transform:rotate(45deg);
+    width:7px;height:7px;border:1px solid var(--brass);flex-shrink:0;
   }
 
   /* ---------- REVEAL ---------- */
@@ -434,7 +460,7 @@
 
 <nav>
   <div class="brandmark">
-    <div class="badge"><span>NCK</span></div>
+    <div class="badge"><img src="images/logo/nck-logo-cream.png" alt="NonConventionalKrafts logo"></div>
     <div class="wordmark">NonConventionalKrafts<small>Old World Design &amp; Craft</small></div>
   </div>
   <div class="navlinks" id="navlinks">
@@ -529,6 +555,8 @@
   <button type="button" class="lightbox-next" id="lightboxNext" aria-label="Next photo">&rarr;</button>
 </div>
 
+<div class="ornament" aria-hidden="true"><span></span></div>
+
 <section class="process" id="process">
   <div class="section-head reveal">
     <div>
@@ -573,9 +601,13 @@
 </section>
 
 <footer>
-  <span>© <span id="year"></span> NonConventionalKrafts — Solana Beach, CA</span>
-  <span>CA Lic. #521400 · B, C-47</span>
-  <span>Old World Design &amp; Craft</span>
+  <img class="footer-mark" src="images/logo/nck-logo-cream.png" alt="NonConventionalKrafts">
+  <div class="footer-lines">
+    <span>© <span id="year"></span> NonConventionalKrafts</span>
+    <span>Solana Beach, CA</span>
+    <span>CA Lic. #521400 · B, C-47</span>
+    <span>Old World Design &amp; Craft</span>
+  </div>
 </footer>
 
 <script>
