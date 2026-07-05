@@ -141,6 +141,13 @@
 },
 {
 "category": "casa-aire-y-sol",
+"slug": "casa-aire-y-sol-outdoor-kitchen-with-egg-installed",
+"title": "Casa Aire y Sol Outdoor Kitchen with Egg Installed.JPG",
+"full": "images/casa-aire-y-sol/casa-aire-y-sol-outdoor-kitchen-with-egg-installed.jpg",
+"thumb": "images/casa-aire-y-sol/thumbs/casa-aire-y-sol-outdoor-kitchen-with-egg-installed.jpg"
+},
+{
+"category": "casa-aire-y-sol",
 "slug": "exterior-bge-nest",
 "title": "Exterior BGE Nest.JPG",
 "full": "images/casa-aire-y-sol/exterior-bge-nest.jpg",
@@ -152,6 +159,13 @@
 "title": "Exterior BGE Nest - Cook in Session.JPG",
 "full": "images/casa-aire-y-sol/exterior-bge-nest-cook-in-session.jpg",
 "thumb": "images/casa-aire-y-sol/thumbs/exterior-bge-nest-cook-in-session.jpg"
+},
+{
+"category": "casa-aire-y-sol",
+"slug": "exterior-bge-nest-cook-in-session-2",
+"title": "Exterior BGE Nest - Cook in Session 2.JPG",
+"full": "images/casa-aire-y-sol/exterior-bge-nest-cook-in-session-2.jpg",
+"thumb": "images/casa-aire-y-sol/thumbs/exterior-bge-nest-cook-in-session-2.jpg"
 },
 {
 "category": "casa-aire-y-sol",
@@ -194,6 +208,13 @@
 "title": "Cedar Landing and Stairs 3.JPG",
 "full": "images/cedar-landing/cedar-landing-and-stairs-3.jpg",
 "thumb": "images/cedar-landing/thumbs/cedar-landing-and-stairs-3.jpg"
+},
+{
+"category": "cedar-landing",
+"slug": "exterior-stairs-landing-bench-and-railing",
+"title": "Exterior Stairs, Landing, Bench and Railing.JPG",
+"full": "images/cedar-landing/exterior-stairs-landing-bench-and-railing.jpg",
+"thumb": "images/cedar-landing/thumbs/exterior-stairs-landing-bench-and-railing.jpg"
 },
 {
 "category": "coffee-nook",
@@ -568,6 +589,13 @@
 },
 {
 "category": "crosby-pool-shelter",
+"slug": "crosby-pool-equipment-shelter",
+"title": "Crosby Pool Equipment Shelter.JPG",
+"full": "images/crosby-pool-shelter/crosby-pool-equipment-shelter.jpg",
+"thumb": "images/crosby-pool-shelter/thumbs/crosby-pool-equipment-shelter.jpg"
+},
+{
+"category": "crosby-pool-shelter",
 "slug": "crosby-pool-equipment-shelter-progress",
 "title": "Crosby Pool Equipment Shelter Progress.jpeg",
 "full": "images/crosby-pool-shelter/crosby-pool-equipment-shelter-progress.jpg",
@@ -579,6 +607,13 @@
 "title": "Crosby Pool Equipment Shelter with Doors.JPG",
 "full": "images/crosby-pool-shelter/crosby-pool-equipment-shelter-with-doors.jpg",
 "thumb": "images/crosby-pool-shelter/thumbs/crosby-pool-equipment-shelter-with-doors.jpg"
+},
+{
+"category": "crosby-pool-shelter",
+"slug": "crosby-pool-equipment-shelter-with-nck",
+"title": "Crosby Pool Equipment Shelter with NCK.JPG",
+"full": "images/crosby-pool-shelter/crosby-pool-equipment-shelter-with-nck.jpg",
+"thumb": "images/crosby-pool-shelter/thumbs/crosby-pool-equipment-shelter-with-nck.jpg"
 },
 {
 "category": "custom-corbel",
@@ -684,6 +719,13 @@
 "title": "Custom Fence - Panel Install Progress 2.JPG",
 "full": "images/custom-fence/custom-fence-panel-install-progress-2.jpg",
 "thumb": "images/custom-fence/thumbs/custom-fence-panel-install-progress-2.jpg"
+},
+{
+"category": "custom-fence",
+"slug": "custom-fence-panel-layout",
+"title": "Custom Fence - Panel Layout.jpeg",
+"full": "images/custom-fence/custom-fence-panel-layout.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-layout.jpg"
 },
 {
 "category": "custom-fence",
@@ -1506,6 +1548,20 @@
 },
 {
 "category": "the-parlour",
+"slug": "room-addition",
+"title": "Room Addition.JPG",
+"full": "images/the-parlour/room-addition.jpg",
+"thumb": "images/the-parlour/thumbs/room-addition.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "room-addition-demo",
+"title": "Room Addition Demo.JPG",
+"full": "images/the-parlour/room-addition-demo.jpg",
+"thumb": "images/the-parlour/thumbs/room-addition-demo.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "room-addition-demo-2",
 "title": "Room Addition Demo 2.jpeg",
 "full": "images/the-parlour/room-addition-demo-2.jpg",
@@ -1569,6 +1625,27 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-backroom-framing-and-station-layout",
+"title": "The Parlour - Backroom Framing and Station Layout.JPG",
+"full": "images/the-parlour/the-parlour-backroom-framing-and-station-layout.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-backroom-framing-and-station-layout.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-bathroom-and-backroom-progress",
+"title": "The Parlour - Bathroom and Backroom Progress.JPG",
+"full": "images/the-parlour/the-parlour-bathroom-and-backroom-progress.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-bathroom-and-backroom-progress.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-bathroom-cedar-lid-stone-work-and-concrete-panels",
+"title": "The Parlour - Bathroom (Cedar Lid, Stone Work and Concrete Panels).JPG",
+"full": "images/the-parlour/the-parlour-bathroom-cedar-lid-stone-work-and-concrete-panels.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-bathroom-cedar-lid-stone-work-and-concrete-panels.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-bathroom-cedar-lid-stone-work-and-concrete-panels-2",
 "title": "The Parlour - Bathroom (Cedar Lid, Stone Work and Concrete Panels) 2.JPG",
 "full": "images/the-parlour/the-parlour-bathroom-cedar-lid-stone-work-and-concrete-panels-2.jpg",
@@ -1576,10 +1653,24 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-bathroom-concrete-sink-stone-fllor-and-walls-and-cedar-cabinet-base",
+"title": "The Parlour Bathroom - Concrete Sink, Stone fllor and Walls and Cedar Cabinet Base.JPG",
+"full": "images/the-parlour/the-parlour-bathroom-concrete-sink-stone-fllor-and-walls-and-cedar-cabinet-base.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-bathroom-concrete-sink-stone-fllor-and-walls-and-cedar-cabinet-base.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-bathroom-custom-concrete-sink-with-running-faucet",
 "title": "The Parlour - Bathroom (Custom Concrete Sink with Running Faucet).JPG",
 "full": "images/the-parlour/the-parlour-bathroom-custom-concrete-sink-with-running-faucet.jpg",
 "thumb": "images/the-parlour/thumbs/the-parlour-bathroom-custom-concrete-sink-with-running-faucet.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-bathroom-stone-work-concrete-panels-custom-concrete-sink",
+"title": "The Parlour - Bathroom (Stone Work, Concrete Panels, Custom Concrete Sink).JPG",
+"full": "images/the-parlour/the-parlour-bathroom-stone-work-concrete-panels-custom-concrete-sink.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-bathroom-stone-work-concrete-panels-custom-concrete-sink.jpg"
 },
 {
 "category": "the-parlour",
@@ -1681,6 +1772,27 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-progress-front",
+"title": "The Parlour - Progress Front.JPG",
+"full": "images/the-parlour/the-parlour-progress-front.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-progress-front.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-reception-coffee-and-tea-station",
+"title": "The Parlour - Reception, Coffee and Tea Station.JPG",
+"full": "images/the-parlour/the-parlour-reception-coffee-and-tea-station.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-reception-coffee-and-tea-station.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-retail-shelves-copper-and-oak-mounted-to-block-wall-1",
+"title": "The Parlour - Retail Shelves (Copper and Oak) Mounted to Block Wall 1.JPG",
+"full": "images/the-parlour/the-parlour-retail-shelves-copper-and-oak-mounted-to-block-wall-1.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-retail-shelves-copper-and-oak-mounted-to-block-wall-1.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-2",
 "title": "The Parlour - Retail Shevles (Copper and Oak) Mounted to Block Wall 2.JPG",
 "full": "images/the-parlour/the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-2.jpg",
@@ -1734,6 +1846,13 @@
 "title": "The Parlour - Top Paneling, Stripped Columns and Sanded Trusses 2.JPG",
 "full": "images/the-parlour/the-parlour-top-paneling-stripped-columns-and-sanded-trusses-2.jpg",
 "thumb": "images/the-parlour/thumbs/the-parlour-top-paneling-stripped-columns-and-sanded-trusses-2.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-torched-ceiling-and-roof-framing",
+"title": "The Parlour - Torched Ceiling and Roof Framing.JPG",
+"full": "images/the-parlour/the-parlour-torched-ceiling-and-roof-framing.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-torched-ceiling-and-roof-framing.jpg"
 },
 {
 "category": "the-parlour",
