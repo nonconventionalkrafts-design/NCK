@@ -140,6 +140,13 @@
 "thumb": "images/casa-aire-y-sol/thumbs/exterior-bge-nest-cook-in-session.jpg"
 },
 {
+"category": "casa-aire-y-sol",
+"slug": "exterior-bge-nest-flagstone-and-redwood-doors",
+"title": "Exterior BGE Nest - Flagstone and Redwood Doors.JPG",
+"full": "images/casa-aire-y-sol/exterior-bge-nest-flagstone-and-redwood-doors.jpg",
+"thumb": "images/casa-aire-y-sol/thumbs/exterior-bge-nest-flagstone-and-redwood-doors.jpg"
+},
+{
 "category": "cedar-landing",
 "slug": "cedar-landing-and-stairs",
 "title": "Cedar Landing and Stairs.JPG",
@@ -589,10 +596,24 @@
 },
 {
 "category": "custom-fence",
+"slug": "custom-fence-bru",
+"title": "Custom Fence - Bru.JPG",
+"full": "images/custom-fence/custom-fence-bru.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-bru.jpg"
+},
+{
+"category": "custom-fence",
 "slug": "custom-fence-panel-install",
 "title": "Custom Fence - Panel Install.jpeg",
 "full": "images/custom-fence/custom-fence-panel-install.jpg",
 "thumb": "images/custom-fence/thumbs/custom-fence-panel-install.jpg"
+},
+{
+"category": "custom-fence",
+"slug": "custom-fence-panel-install-2",
+"title": "Custom Fence - Panel Install 2.jpeg",
+"full": "images/custom-fence/custom-fence-panel-install-2.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-install-2.jpg"
 },
 {
 "category": "custom-fence",
@@ -635,6 +656,13 @@
 "title": "Custom Fence - Panled with Clear Coat Perspective.JPG",
 "full": "images/custom-fence/custom-fence-panled-with-clear-coat-perspective.jpg",
 "thumb": "images/custom-fence/thumbs/custom-fence-panled-with-clear-coat-perspective.jpg"
+},
+{
+"category": "custom-fence",
+"slug": "custom-fence-pattern-and-design-progress",
+"title": "Custom Fence - Pattern and Design Progress.jpeg",
+"full": "images/custom-fence/custom-fence-pattern-and-design-progress.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-pattern-and-design-progress.jpg"
 },
 {
 "category": "custom-pool-bench",
@@ -1359,6 +1387,13 @@
 },
 {
 "category": "the-parlour",
+"slug": "room-addition-demo-2",
+"title": "Room Addition Demo 2.jpeg",
+"full": "images/the-parlour/room-addition-demo-2.jpg",
+"thumb": "images/the-parlour/thumbs/room-addition-demo-2.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-palour-waiting-room-before-and-after",
 "title": "The Palour Waiting Room Before and After.jpg",
 "full": "images/the-parlour/the-palour-waiting-room-before-and-after.jpg",
@@ -1387,6 +1422,34 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-back-bar-complete",
+"title": "The Parlour - Back Bar Complete.JPG",
+"full": "images/the-parlour/the-parlour-back-bar-complete.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-back-bar-complete.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-bathroom-cedar-lid-stone-work-and-concrete-panels-2",
+"title": "The Parlour - Bathroom (Cedar Lid, Stone Work and Concrete Panels) 2.JPG",
+"full": "images/the-parlour/the-parlour-bathroom-cedar-lid-stone-work-and-concrete-panels-2.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-bathroom-cedar-lid-stone-work-and-concrete-panels-2.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-bathroom-custom-concrete-sink-with-running-faucet",
+"title": "The Parlour - Bathroom (Custom Concrete Sink with Running Faucet).JPG",
+"full": "images/the-parlour/the-parlour-bathroom-custom-concrete-sink-with-running-faucet.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-bathroom-custom-concrete-sink-with-running-faucet.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-custom-banquet-2",
+"title": "The Parlour - Custom Banquet 2.JPG",
+"full": "images/the-parlour/the-parlour-custom-banquet-2.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-custom-banquet-2.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-custom-banquet-3",
 "title": "The Parlour - Custom Banquet 3.JPG",
 "full": "images/the-parlour/the-parlour-custom-banquet-3.jpg",
@@ -1408,10 +1471,38 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-custom-station-installation",
+"title": "The Parlour - Custom Station Installation.JPG",
+"full": "images/the-parlour/the-parlour-custom-station-installation.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-custom-station-installation.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-floating-wall-and-backbar-shelf",
 "title": "The Parlour - Floating Wall and Backbar Shelf.JPG",
 "full": "images/the-parlour/the-parlour-floating-wall-and-backbar-shelf.jpg",
 "thumb": "images/the-parlour/thumbs/the-parlour-floating-wall-and-backbar-shelf.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-framing-bathroom",
+"title": "The Parlour - Framing Bathroom.JPG",
+"full": "images/the-parlour/the-parlour-framing-bathroom.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-framing-bathroom.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-2",
+"title": "The Parlour - Retail Shevles (Copper and Oak) Mounted to Block Wall 2.JPG",
+"full": "images/the-parlour/the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-2.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-2.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-3",
+"title": "The Parlour - Retail Shevles (Copper and Oak) Mounted to Block Wall 3..JPG",
+"full": "images/the-parlour/the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-3.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-3.jpg"
 },
 {
 "category": "the-parlour",
@@ -1433,6 +1524,20 @@
 "title": "The Parlour - Top Paneling, Stripped Columns and Sanded Trusses.jpg",
 "full": "images/the-parlour/the-parlour-top-paneling-stripped-columns-and-sanded-trusses.jpg",
 "thumb": "images/the-parlour/thumbs/the-parlour-top-paneling-stripped-columns-and-sanded-trusses.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-top-paneling-stripped-columns-and-sanded-trusses-2",
+"title": "The Parlour - Top Paneling, Stripped Columns and Sanded Trusses 2.JPG",
+"full": "images/the-parlour/the-parlour-top-paneling-stripped-columns-and-sanded-trusses-2.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-top-paneling-stripped-columns-and-sanded-trusses-2.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parour-shampoo-biw",
+"title": "The Parour Shampoo Biw.JPG",
+"full": "images/the-parlour/the-parour-shampoo-biw.jpg",
+"thumb": "images/the-parlour/thumbs/the-parour-shampoo-biw.jpg"
 },
 {
 "category": "woodshop",
