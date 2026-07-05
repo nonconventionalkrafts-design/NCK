@@ -155,6 +155,13 @@
 },
 {
 "category": "casa-aire-y-sol",
+"slug": "exterior-bge-nest-copper-and-redwood-shelvesjpg",
+"title": "Exterior BGE Nest - Copper and Redwood ShelvesJPG.JPG",
+"full": "images/casa-aire-y-sol/exterior-bge-nest-copper-and-redwood-shelvesjpg.jpg",
+"thumb": "images/casa-aire-y-sol/thumbs/exterior-bge-nest-copper-and-redwood-shelvesjpg.jpg"
+},
+{
+"category": "casa-aire-y-sol",
 "slug": "exterior-bge-nest-flagstone-and-redwood-doors",
 "title": "Exterior BGE Nest - Flagstone and Redwood Doors.JPG",
 "full": "images/casa-aire-y-sol/exterior-bge-nest-flagstone-and-redwood-doors.jpg",
@@ -560,6 +567,20 @@
 "thumb": "images/coffee-nook/thumbs/fully-custom-coffee-and-pantry-nook-insdie-an-existing-wall.jpg"
 },
 {
+"category": "crosby-pool-shelter",
+"slug": "crosby-pool-equipment-shelter-progress",
+"title": "Crosby Pool Equipment Shelter Progress.jpeg",
+"full": "images/crosby-pool-shelter/crosby-pool-equipment-shelter-progress.jpg",
+"thumb": "images/crosby-pool-shelter/thumbs/crosby-pool-equipment-shelter-progress.jpg"
+},
+{
+"category": "crosby-pool-shelter",
+"slug": "crosby-pool-equipment-shelter-with-doors",
+"title": "Crosby Pool Equipment Shelter with Doors.JPG",
+"full": "images/crosby-pool-shelter/crosby-pool-equipment-shelter-with-doors.jpg",
+"thumb": "images/crosby-pool-shelter/thumbs/crosby-pool-equipment-shelter-with-doors.jpg"
+},
+{
 "category": "custom-corbel",
 "slug": "costum-corbel-ili-1",
 "title": "Costum Corbel - ILI 1.jpeg",
@@ -663,6 +684,20 @@
 "title": "Custom Fence - Panel Install Progress 2.JPG",
 "full": "images/custom-fence/custom-fence-panel-install-progress-2.jpg",
 "thumb": "images/custom-fence/thumbs/custom-fence-panel-install-progress-2.jpg"
+},
+{
+"category": "custom-fence",
+"slug": "custom-fence-panel-production",
+"title": "Custom Fence - Panel Production.JPG",
+"full": "images/custom-fence/custom-fence-panel-production.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-production.jpg"
+},
+{
+"category": "custom-fence",
+"slug": "custom-fence-panel-trim-and-detail",
+"title": "Custom Fence - Panel Trim and Detail.JPG",
+"full": "images/custom-fence/custom-fence-panel-trim-and-detail.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-trim-and-detail.jpg"
 },
 {
 "category": "custom-fence",
@@ -1394,10 +1429,24 @@
 },
 {
 "category": "the-parlour",
+"slug": "custom-double-barn-doors",
+"title": "Custom Double Barn Doors.jpeg",
+"full": "images/the-parlour/custom-double-barn-doors.jpg",
+"thumb": "images/the-parlour/thumbs/custom-double-barn-doors.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "custom-mirror-mounted",
 "title": "Custom Mirror Mounted.jpeg",
 "full": "images/the-parlour/custom-mirror-mounted.jpg",
 "thumb": "images/the-parlour/thumbs/custom-mirror-mounted.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "custom-mirrors",
+"title": "Custom Mirrors.jpeg",
+"full": "images/the-parlour/custom-mirrors.jpg",
+"thumb": "images/the-parlour/thumbs/custom-mirrors.jpg"
 },
 {
 "category": "the-parlour",
@@ -1412,6 +1461,13 @@
 "title": "Custom Mirrors and Paiting Frames - Wall Mounted at The Parlour.JPG",
 "full": "images/the-parlour/custom-mirrors-and-paiting-frames-wall-mounted-at-the-parlour.jpg",
 "thumb": "images/the-parlour/thumbs/custom-mirrors-and-paiting-frames-wall-mounted-at-the-parlour.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "custom-mirrors-mounting-at-the-parlour",
+"title": "Custom Mirrors - Mounting at The Parlour.jpeg",
+"full": "images/the-parlour/custom-mirrors-mounting-at-the-parlour.jpg",
+"thumb": "images/the-parlour/thumbs/custom-mirrors-mounting-at-the-parlour.jpg"
 },
 {
 "category": "the-parlour",
@@ -1457,6 +1513,20 @@
 },
 {
 "category": "the-parlour",
+"slug": "room-addition-demo-4",
+"title": "Room Addition Demo 4.jpeg",
+"full": "images/the-parlour/room-addition-demo-4.jpg",
+"thumb": "images/the-parlour/thumbs/room-addition-demo-4.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "room-addition-floor-framing",
+"title": "Room Addition Floor Framing.jpeg",
+"full": "images/the-parlour/room-addition-floor-framing.jpg",
+"thumb": "images/the-parlour/thumbs/room-addition-floor-framing.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-palour-waiting-room-before-and-after",
 "title": "The Palour Waiting Room Before and After.jpg",
 "full": "images/the-parlour/the-palour-waiting-room-before-and-after.jpg",
@@ -1492,6 +1562,13 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-back-bar-progress",
+"title": "The Parlour - Back Bar Progress.JPG",
+"full": "images/the-parlour/the-parlour-back-bar-progress.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-back-bar-progress.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-bathroom-cedar-lid-stone-work-and-concrete-panels-2",
 "title": "The Parlour - Bathroom (Cedar Lid, Stone Work and Concrete Panels) 2.JPG",
 "full": "images/the-parlour/the-parlour-bathroom-cedar-lid-stone-work-and-concrete-panels-2.jpg",
@@ -1503,6 +1580,20 @@
 "title": "The Parlour - Bathroom (Custom Concrete Sink with Running Faucet).JPG",
 "full": "images/the-parlour/the-parlour-bathroom-custom-concrete-sink-with-running-faucet.jpg",
 "thumb": "images/the-parlour/thumbs/the-parlour-bathroom-custom-concrete-sink-with-running-faucet.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-before-and-after",
+"title": "The Parlour Before and After.jpg",
+"full": "images/the-parlour/the-parlour-before-and-after.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-before-and-after.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-concrete-counter-polishing-pre-install",
+"title": "The Parlour - Concrete Counter Polishing Pre-Install.JPG",
+"full": "images/the-parlour/the-parlour-concrete-counter-polishing-pre-install.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-concrete-counter-polishing-pre-install.jpg"
 },
 {
 "category": "the-parlour",
@@ -1583,6 +1674,13 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-progress-back",
+"title": "The Parlour - Progress Back.JPG",
+"full": "images/the-parlour/the-parlour-progress-back.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-progress-back.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-2",
 "title": "The Parlour - Retail Shevles (Copper and Oak) Mounted to Block Wall 2.JPG",
 "full": "images/the-parlour/the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-2.jpg",
@@ -1594,6 +1692,13 @@
 "title": "The Parlour - Retail Shevles (Copper and Oak) Mounted to Block Wall 3..JPG",
 "full": "images/the-parlour/the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-3.jpg",
 "thumb": "images/the-parlour/thumbs/the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-3.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-rough-frame-for-new-glass-doors",
+"title": "The Parlour - Rough Frame for New Glass Doors.JPG",
+"full": "images/the-parlour/the-parlour-rough-frame-for-new-glass-doors.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-rough-frame-for-new-glass-doors.jpg"
 },
 {
 "category": "the-parlour",
