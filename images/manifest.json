@@ -126,6 +126,13 @@
 "thumb": "images/cedar-landing/thumbs/cedar-landing-and-stairs.jpg"
 },
 {
+"category": "cedar-landing",
+"slug": "cedar-landing-and-stairs-2",
+"title": "Cedar Landing and Stairs 2.JPG",
+"full": "images/cedar-landing/cedar-landing-and-stairs-2.jpg",
+"thumb": "images/cedar-landing/thumbs/cedar-landing-and-stairs-2.jpg"
+},
+{
 "category": "coffee-nook",
 "slug": "coffee-nook-before-demo",
 "title": "Coffee Nook - Before Demo.jpg",
@@ -561,6 +568,20 @@
 },
 {
 "category": "custom-pool-bench",
+"slug": "custom-pool-bench-progress",
+"title": "Custom Pool Bench Progress.jpeg",
+"full": "images/custom-pool-bench/custom-pool-bench-progress.jpg",
+"thumb": "images/custom-pool-bench/thumbs/custom-pool-bench-progress.jpg"
+},
+{
+"category": "custom-pool-bench",
+"slug": "pool-bench-scraps",
+"title": "Pool Bench Scraps.jpeg",
+"full": "images/custom-pool-bench/pool-bench-scraps.jpg",
+"thumb": "images/custom-pool-bench/thumbs/pool-bench-scraps.jpg"
+},
+{
+"category": "custom-pool-bench",
 "slug": "pool-bench-starting-with-scraps",
 "title": "Pool Bench - Starting with Scraps.jpeg",
 "full": "images/custom-pool-bench/pool-bench-starting-with-scraps.jpg",
@@ -785,6 +806,20 @@
 },
 {
 "category": "landscape",
+"slug": "landscape-pony-before-paneling-2",
+"title": "Landscape Pony Before Paneling 2.jpeg",
+"full": "images/landscape/landscape-pony-before-paneling-2.jpg",
+"thumb": "images/landscape/thumbs/landscape-pony-before-paneling-2.jpg"
+},
+{
+"category": "landscape",
+"slug": "landscape-pony-wall",
+"title": "Landscape Pony Wall.jpeg",
+"full": "images/landscape/landscape-pony-wall.jpg",
+"thumb": "images/landscape/thumbs/landscape-pony-wall.jpg"
+},
+{
+"category": "landscape",
 "slug": "nck-landscape-custom-sliding-gate",
 "title": "NCK Landscape - Custom Sliding Gate.jpeg",
 "full": "images/landscape/nck-landscape-custom-sliding-gate.jpg",
@@ -960,6 +995,20 @@
 },
 {
 "category": "pallet-gate",
+"slug": "exterior-pallet-gate",
+"title": "Exterior Pallet Gate.jpeg",
+"full": "images/pallet-gate/exterior-pallet-gate.jpg",
+"thumb": "images/pallet-gate/thumbs/exterior-pallet-gate.jpg"
+},
+{
+"category": "pallet-gate",
+"slug": "exterior-pallet-gate-front",
+"title": "Exterior Pallet Gate Front.jpeg",
+"full": "images/pallet-gate/exterior-pallet-gate-front.jpg",
+"thumb": "images/pallet-gate/thumbs/exterior-pallet-gate-front.jpg"
+},
+{
+"category": "pallet-gate",
 "slug": "exterior-pallet-gate-header",
 "title": "Exterior Pallet Gate Header.jpeg",
 "full": "images/pallet-gate/exterior-pallet-gate-header.jpg",
@@ -978,6 +1027,27 @@
 "title": "Pallet Gate Front.jpeg",
 "full": "images/pallet-gate/pallet-gate-front.jpg",
 "thumb": "images/pallet-gate/thumbs/pallet-gate-front.jpg"
+},
+{
+"category": "pallet-gate",
+"slug": "pallet-gate-full-pallet",
+"title": "Pallet Gate Full Pallet.jpeg",
+"full": "images/pallet-gate/pallet-gate-full-pallet.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-full-pallet.jpg"
+},
+{
+"category": "pallet-gate",
+"slug": "pallet-gate-layout-front",
+"title": "Pallet Gate Layout Front.jpeg",
+"full": "images/pallet-gate/pallet-gate-layout-front.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-layout-front.jpg"
+},
+{
+"category": "pool-house",
+"slug": "pool-house-before-1",
+"title": "Pool House Before 1.jpeg",
+"full": "images/pool-house/pool-house-before-1.jpg",
+"thumb": "images/pool-house/thumbs/pool-house-before-1.jpg"
 },
 {
 "category": "pool-house",
@@ -1079,10 +1149,38 @@
 },
 {
 "category": "the-parlour",
+"slug": "custom-painting-frame",
+"title": "Custom Painting Frame.jpeg",
+"full": "images/the-parlour/custom-painting-frame.jpg",
+"thumb": "images/the-parlour/thumbs/custom-painting-frame.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "custom-painting-frames-and-overhead-product-shelves-at-the-parlour",
+"title": "Custom Painting Frames and Overhead Product Shelves at The Parlour.JPG",
+"full": "images/the-parlour/custom-painting-frames-and-overhead-product-shelves-at-the-parlour.jpg",
+"thumb": "images/the-parlour/thumbs/custom-painting-frames-and-overhead-product-shelves-at-the-parlour.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "nck-custom-mirrors-and-painting-frames",
+"title": "NCK Custom Mirrors and Painting Frames.jpg",
+"full": "images/the-parlour/nck-custom-mirrors-and-painting-frames.jpg",
+"thumb": "images/the-parlour/thumbs/nck-custom-mirrors-and-painting-frames.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "pop-up-salon-covid-edition",
 "title": "Pop-Up Salon - COVID Edition.jpg",
 "full": "images/the-parlour/pop-up-salon-covid-edition.jpg",
 "thumb": "images/the-parlour/thumbs/pop-up-salon-covid-edition.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-2016-alternative-concept-sketch",
+"title": "The Parlour 2016 Alternative Concept Sketch.jpeg",
+"full": "images/the-parlour/the-parlour-2016-alternative-concept-sketch.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-2016-alternative-concept-sketch.jpg"
 },
 {
 "category": "the-parlour",
