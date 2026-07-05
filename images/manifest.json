@@ -70,6 +70,13 @@
 "thumb": "images/brandy-bar/thumbs/brandy-bar-with-mock-lighting-for-warmth.jpg"
 },
 {
+"category": "brandy-bar",
+"slug": "wall-mounted-riddling-rack-out-of-focus",
+"title": "Wall Mounted Riddling Rack - Out-of-Focus.jpeg",
+"full": "images/brandy-bar/wall-mounted-riddling-rack-out-of-focus.jpg",
+"thumb": "images/brandy-bar/thumbs/wall-mounted-riddling-rack-out-of-focus.jpg"
+},
+{
 "category": "casa-aire-y-sol",
 "slug": "casa-aire-y-sol-concrete-bench-and-backing",
 "title": "Casa Aire y Sol - Concrete Bench and Backing.jpeg",
@@ -131,6 +138,13 @@
 "title": "Cedar Landing and Stairs 2.JPG",
 "full": "images/cedar-landing/cedar-landing-and-stairs-2.jpg",
 "thumb": "images/cedar-landing/thumbs/cedar-landing-and-stairs-2.jpg"
+},
+{
+"category": "cedar-landing",
+"slug": "cedar-landing-and-stairs-3",
+"title": "Cedar Landing and Stairs 3.JPG",
+"full": "images/cedar-landing/cedar-landing-and-stairs-3.jpg",
+"thumb": "images/cedar-landing/thumbs/cedar-landing-and-stairs-3.jpg"
 },
 {
 "category": "coffee-nook",
@@ -554,6 +568,13 @@
 },
 {
 "category": "custom-fence",
+"slug": "custom-fence-panel-install-progress",
+"title": "Custom Fence - Panel Install Progress.JPG",
+"full": "images/custom-fence/custom-fence-panel-install-progress.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-install-progress.jpg"
+},
+{
+"category": "custom-fence",
 "slug": "custom-fence-panel-install-progress-2",
 "title": "Custom Fence - Panel Install Progress 2.JPG",
 "full": "images/custom-fence/custom-fence-panel-install-progress-2.jpg",
@@ -567,11 +588,39 @@
 "thumb": "images/custom-fence/thumbs/custom-fence-paneled-series.jpg"
 },
 {
+"category": "custom-fence",
+"slug": "custom-fence-panled-with-clear-coat-perspective",
+"title": "Custom Fence - Panled with Clear Coat Perspective.JPG",
+"full": "images/custom-fence/custom-fence-panled-with-clear-coat-perspective.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panled-with-clear-coat-perspective.jpg"
+},
+{
+"category": "custom-pool-bench",
+"slug": "custom-pool-bench",
+"title": "Custom Pool Bench.jpeg",
+"full": "images/custom-pool-bench/custom-pool-bench.jpg",
+"thumb": "images/custom-pool-bench/thumbs/custom-pool-bench.jpg"
+},
+{
+"category": "custom-pool-bench",
+"slug": "custom-pool-bench-3",
+"title": "Custom Pool Bench 3.jpeg",
+"full": "images/custom-pool-bench/custom-pool-bench-3.jpg",
+"thumb": "images/custom-pool-bench/thumbs/custom-pool-bench-3.jpg"
+},
+{
 "category": "custom-pool-bench",
 "slug": "custom-pool-bench-progress",
 "title": "Custom Pool Bench Progress.jpeg",
 "full": "images/custom-pool-bench/custom-pool-bench-progress.jpg",
 "thumb": "images/custom-pool-bench/thumbs/custom-pool-bench-progress.jpg"
+},
+{
+"category": "custom-pool-bench",
+"slug": "custom-pool-bench-top",
+"title": "Custom Pool Bench Top.JPG",
+"full": "images/custom-pool-bench/custom-pool-bench-top.jpg",
+"thumb": "images/custom-pool-bench/thumbs/custom-pool-bench-top.jpg"
 },
 {
 "category": "custom-pool-bench",
@@ -820,6 +869,13 @@
 },
 {
 "category": "landscape",
+"slug": "landscape-pony-wall-before-paneling",
+"title": "Landscape Pony Wall before Paneling.jpeg",
+"full": "images/landscape/landscape-pony-wall-before-paneling.jpg",
+"thumb": "images/landscape/thumbs/landscape-pony-wall-before-paneling.jpg"
+},
+{
+"category": "landscape",
 "slug": "nck-landscape-custom-sliding-gate",
 "title": "NCK Landscape - Custom Sliding Gate.jpeg",
 "full": "images/landscape/nck-landscape-custom-sliding-gate.jpg",
@@ -1023,10 +1079,24 @@
 },
 {
 "category": "pallet-gate",
+"slug": "pallet-gate-frame",
+"title": "Pallet Gate Frame.jpeg",
+"full": "images/pallet-gate/pallet-gate-frame.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-frame.jpg"
+},
+{
+"category": "pallet-gate",
 "slug": "pallet-gate-front",
 "title": "Pallet Gate Front.jpeg",
 "full": "images/pallet-gate/pallet-gate-front.jpg",
 "thumb": "images/pallet-gate/thumbs/pallet-gate-front.jpg"
+},
+{
+"category": "pallet-gate",
+"slug": "pallet-gate-front-2",
+"title": "Pallet Gate Front 2.jpeg",
+"full": "images/pallet-gate/pallet-gate-front-2.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-front-2.jpg"
 },
 {
 "category": "pallet-gate",
@@ -1043,11 +1113,32 @@
 "thumb": "images/pallet-gate/thumbs/pallet-gate-layout-front.jpg"
 },
 {
+"category": "pallet-gate",
+"slug": "pallet-gate-pallet",
+"title": "Pallet Gate Pallet.jpeg",
+"full": "images/pallet-gate/pallet-gate-pallet.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-pallet.jpg"
+},
+{
+"category": "pallet-gate",
+"slug": "pallet-gate-rear",
+"title": "Pallet Gate Rear.jpeg",
+"full": "images/pallet-gate/pallet-gate-rear.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-rear.jpg"
+},
+{
 "category": "pool-house",
 "slug": "pool-house-before-1",
 "title": "Pool House Before 1.jpeg",
 "full": "images/pool-house/pool-house-before-1.jpg",
 "thumb": "images/pool-house/thumbs/pool-house-before-1.jpg"
+},
+{
+"category": "pool-house",
+"slug": "pool-house-before-2",
+"title": "Pool House Before 2.jpeg",
+"full": "images/pool-house/pool-house-before-2.jpg",
+"thumb": "images/pool-house/thumbs/pool-house-before-2.jpg"
 },
 {
 "category": "pool-house",
@@ -1142,10 +1233,24 @@
 },
 {
 "category": "the-parlour",
+"slug": "custom-mirror-mounted",
+"title": "Custom Mirror Mounted.jpeg",
+"full": "images/the-parlour/custom-mirror-mounted.jpg",
+"thumb": "images/the-parlour/thumbs/custom-mirror-mounted.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "custom-mirrors-and-overhead-product-shelves",
 "title": "Custom Mirrors and Overhead Product Shelves.JPG",
 "full": "images/the-parlour/custom-mirrors-and-overhead-product-shelves.jpg",
 "thumb": "images/the-parlour/thumbs/custom-mirrors-and-overhead-product-shelves.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "custom-mirrors-and-paiting-frames-wall-mounted-at-the-parlour",
+"title": "Custom Mirrors and Paiting Frames - Wall Mounted at The Parlour.JPG",
+"full": "images/the-parlour/custom-mirrors-and-paiting-frames-wall-mounted-at-the-parlour.jpg",
+"thumb": "images/the-parlour/thumbs/custom-mirrors-and-paiting-frames-wall-mounted-at-the-parlour.jpg"
 },
 {
 "category": "the-parlour",
