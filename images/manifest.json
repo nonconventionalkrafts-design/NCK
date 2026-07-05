@@ -113,6 +113,13 @@
 },
 {
 "category": "casa-aire-y-sol",
+"slug": "casa-aire-y-sol-outdoor-kitchen-complete-with-egg",
+"title": "Casa Aire y Sol Outdoor Kitchen Complete with Egg.JPG",
+"full": "images/casa-aire-y-sol/casa-aire-y-sol-outdoor-kitchen-complete-with-egg.jpg",
+"thumb": "images/casa-aire-y-sol/thumbs/casa-aire-y-sol-outdoor-kitchen-complete-with-egg.jpg"
+},
+{
+"category": "casa-aire-y-sol",
 "slug": "casa-aire-y-sol-outdoor-kitchen-door-construction",
 "title": "Casa Aire y Sol Outdoor Kitchen - Door Construction.JPG",
 "full": "images/casa-aire-y-sol/casa-aire-y-sol-outdoor-kitchen-door-construction.jpg",
@@ -124,6 +131,13 @@
 "title": "Casa Aire y Sol Outdoor Kitchen Progress.JPG",
 "full": "images/casa-aire-y-sol/casa-aire-y-sol-outdoor-kitchen-progress.jpg",
 "thumb": "images/casa-aire-y-sol/thumbs/casa-aire-y-sol-outdoor-kitchen-progress.jpg"
+},
+{
+"category": "casa-aire-y-sol",
+"slug": "casa-aire-y-sol-outdoor-kitchen-with-concrete-counter-tops",
+"title": "Casa Aire y Sol Outdoor Kitchen with Concrete Counter Tops.JPG",
+"full": "images/casa-aire-y-sol/casa-aire-y-sol-outdoor-kitchen-with-concrete-counter-tops.jpg",
+"thumb": "images/casa-aire-y-sol/thumbs/casa-aire-y-sol-outdoor-kitchen-with-concrete-counter-tops.jpg"
 },
 {
 "category": "casa-aire-y-sol",
@@ -145,6 +159,13 @@
 "title": "Exterior BGE Nest - Flagstone and Redwood Doors.JPG",
 "full": "images/casa-aire-y-sol/exterior-bge-nest-flagstone-and-redwood-doors.jpg",
 "thumb": "images/casa-aire-y-sol/thumbs/exterior-bge-nest-flagstone-and-redwood-doors.jpg"
+},
+{
+"category": "casa-aire-y-sol",
+"slug": "exterior-bge-nest-flagstone-redwood-doors-and-countertop",
+"title": "Exterior BGE Nest - Flagstone, Redwood Doors and Countertop.JPG",
+"full": "images/casa-aire-y-sol/exterior-bge-nest-flagstone-redwood-doors-and-countertop.jpg",
+"thumb": "images/casa-aire-y-sol/thumbs/exterior-bge-nest-flagstone-redwood-doors-and-countertop.jpg"
 },
 {
 "category": "cedar-landing",
@@ -603,6 +624,13 @@
 },
 {
 "category": "custom-fence",
+"slug": "custom-fence-detailing-in-progress",
+"title": "Custom Fence - Detailing in Progress.jpeg",
+"full": "images/custom-fence/custom-fence-detailing-in-progress.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-detailing-in-progress.jpg"
+},
+{
+"category": "custom-fence",
 "slug": "custom-fence-panel-install",
 "title": "Custom Fence - Panel Install.jpeg",
 "full": "images/custom-fence/custom-fence-panel-install.jpg",
@@ -614,6 +642,13 @@
 "title": "Custom Fence - Panel Install 2.jpeg",
 "full": "images/custom-fence/custom-fence-panel-install-2.jpg",
 "thumb": "images/custom-fence/thumbs/custom-fence-panel-install-2.jpg"
+},
+{
+"category": "custom-fence",
+"slug": "custom-fence-panel-install-3",
+"title": "Custom Fence - Panel Install 3.JPG",
+"full": "images/custom-fence/custom-fence-panel-install-3.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-install-3.jpg"
 },
 {
 "category": "custom-fence",
@@ -663,6 +698,20 @@
 "title": "Custom Fence - Pattern and Design Progress.jpeg",
 "full": "images/custom-fence/custom-fence-pattern-and-design-progress.jpg",
 "thumb": "images/custom-fence/thumbs/custom-fence-pattern-and-design-progress.jpg"
+},
+{
+"category": "custom-fence",
+"slug": "custom-fence-pony-wall-and-installation-of-column-bases",
+"title": "Custom Fence - Pony Wall and Installation of Column Bases.JPG",
+"full": "images/custom-fence/custom-fence-pony-wall-and-installation-of-column-bases.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-pony-wall-and-installation-of-column-bases.jpg"
+},
+{
+"category": "custom-fence",
+"slug": "custom-fence-rough-layout",
+"title": "Custom Fence - Rough Layout.JPG",
+"full": "images/custom-fence/custom-fence-rough-layout.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-rough-layout.jpg"
 },
 {
 "category": "custom-pool-bench",
@@ -939,6 +988,13 @@
 },
 {
 "category": "landscape",
+"slug": "landscape-accents",
+"title": "Landscape Accents.jpg",
+"full": "images/landscape/landscape-accents.jpg",
+"thumb": "images/landscape/thumbs/landscape-accents.jpg"
+},
+{
+"category": "landscape",
 "slug": "landscape-gate-step-and-stairs",
 "title": "Landscape - Gate, Step and Stairs.HEIC",
 "full": "images/landscape/landscape-gate-step-and-stairs.jpg",
@@ -964,6 +1020,13 @@
 "title": "Landscape Pony Wall before Paneling.jpeg",
 "full": "images/landscape/landscape-pony-wall-before-paneling.jpg",
 "thumb": "images/landscape/thumbs/landscape-pony-wall-before-paneling.jpg"
+},
+{
+"category": "landscape",
+"slug": "landscaping-two-tone-rocks",
+"title": "Landscaping - Two Tone Rocks.jpg",
+"full": "images/landscape/landscaping-two-tone-rocks.jpg",
+"thumb": "images/landscape/thumbs/landscaping-two-tone-rocks.jpg"
 },
 {
 "category": "landscape",
@@ -1443,6 +1506,13 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-custom-banquet",
+"title": "The Parlour - Custom Banquet.JPG",
+"full": "images/the-parlour/the-parlour-custom-banquet.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-custom-banquet.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-custom-banquet-2",
 "title": "The Parlour - Custom Banquet 2.JPG",
 "full": "images/the-parlour/the-parlour-custom-banquet-2.jpg",
@@ -1464,6 +1534,13 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-custom-banquet-5",
+"title": "The Parlour - Custom Banquet 5.JPG",
+"full": "images/the-parlour/the-parlour-custom-banquet-5.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-custom-banquet-5.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-custom-shampoo-bowl-bases",
 "title": "The Parlour - Custom Shampoo Bowl Bases.jpeg",
 "full": "images/the-parlour/the-parlour-custom-shampoo-bowl-bases.jpg",
@@ -1475,6 +1552,13 @@
 "title": "The Parlour - Custom Station Installation.JPG",
 "full": "images/the-parlour/the-parlour-custom-station-installation.jpg",
 "thumb": "images/the-parlour/thumbs/the-parlour-custom-station-installation.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-finished-banquet-with-made-to-order-coffee-table",
+"title": "The Parlour - Finished Banquet with Made-to-Order Coffee Table.JPG",
+"full": "images/the-parlour/the-parlour-finished-banquet-with-made-to-order-coffee-table.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-finished-banquet-with-made-to-order-coffee-table.jpg"
 },
 {
 "category": "the-parlour",
@@ -1492,6 +1576,13 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-progress",
+"title": "The Parlour - Progress..JPG",
+"full": "images/the-parlour/the-parlour-progress.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-progress.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-2",
 "title": "The Parlour - Retail Shevles (Copper and Oak) Mounted to Block Wall 2.JPG",
 "full": "images/the-parlour/the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-2.jpg",
@@ -1503,6 +1594,13 @@
 "title": "The Parlour - Retail Shevles (Copper and Oak) Mounted to Block Wall 3..JPG",
 "full": "images/the-parlour/the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-3.jpg",
 "thumb": "images/the-parlour/thumbs/the-parlour-retail-shevles-copper-and-oak-mounted-to-block-wall-3.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-running-electrical-to-stations",
+"title": "The Parlour - Running Electrical to Stations.JPG",
+"full": "images/the-parlour/the-parlour-running-electrical-to-stations.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-running-electrical-to-stations.jpg"
 },
 {
 "category": "the-parlour",
