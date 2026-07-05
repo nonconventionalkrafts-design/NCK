@@ -119,6 +119,13 @@
 "thumb": "images/casa-aire-y-sol/thumbs/casa-aire-y-sol-outdoor-kitchen-progress.jpg"
 },
 {
+"category": "cedar-landing",
+"slug": "cedar-landing-and-stairs",
+"title": "Cedar Landing and Stairs.JPG",
+"full": "images/cedar-landing/cedar-landing-and-stairs.jpg",
+"thumb": "images/cedar-landing/thumbs/cedar-landing-and-stairs.jpg"
+},
+{
 "category": "coffee-nook",
 "slug": "coffee-nook-before-demo",
 "title": "Coffee Nook - Before Demo.jpg",
@@ -539,6 +546,34 @@
 "thumb": "images/custom-corbel/thumbs/costum-corbel-ili-char-process-2.jpg"
 },
 {
+"category": "custom-fence",
+"slug": "custom-fence-panel-install-progress-2",
+"title": "Custom Fence - Panel Install Progress 2.JPG",
+"full": "images/custom-fence/custom-fence-panel-install-progress-2.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-install-progress-2.jpg"
+},
+{
+"category": "custom-fence",
+"slug": "custom-fence-paneled-series",
+"title": "Custom Fence - Paneled Series.jpeg",
+"full": "images/custom-fence/custom-fence-paneled-series.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-paneled-series.jpg"
+},
+{
+"category": "custom-pool-bench",
+"slug": "pool-bench-starting-with-scraps",
+"title": "Pool Bench - Starting with Scraps.jpeg",
+"full": "images/custom-pool-bench/pool-bench-starting-with-scraps.jpg",
+"thumb": "images/custom-pool-bench/thumbs/pool-bench-starting-with-scraps.jpg"
+},
+{
+"category": "custom-pool-bench",
+"slug": "pool-bench-with-nck",
+"title": "Pool Bench with NCK.JPG",
+"full": "images/custom-pool-bench/pool-bench-with-nck.jpg",
+"thumb": "images/custom-pool-bench/thumbs/pool-bench-with-nck.jpg"
+},
+{
 "category": "dart-board-enclosure",
 "slug": "dart-board-enclosure-2",
 "title": "Dart Board Enclosure 2.jpeg",
@@ -614,6 +649,13 @@
 "title": "Custom Gate Progress.jpeg",
 "full": "images/gate-fence/custom-gate-progress.jpg",
 "thumb": "images/gate-fence/thumbs/custom-gate-progress.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "reclaimed-exterior-saloon-gate-2",
+"title": "Reclaimed Exterior Saloon Gate 2.jpg",
+"full": "images/gate-fence/reclaimed-exterior-saloon-gate-2.jpg",
+"thumb": "images/gate-fence/thumbs/reclaimed-exterior-saloon-gate-2.jpg"
 },
 {
 "category": "la-cantina",
@@ -917,6 +959,27 @@
 "thumb": "images/misc/thumbs/ccd22d49-d12b-49eb-aa66-f8ccc76769f5.jpg"
 },
 {
+"category": "pallet-gate",
+"slug": "exterior-pallet-gate-header",
+"title": "Exterior Pallet Gate Header.jpeg",
+"full": "images/pallet-gate/exterior-pallet-gate-header.jpg",
+"thumb": "images/pallet-gate/thumbs/exterior-pallet-gate-header.jpg"
+},
+{
+"category": "pallet-gate",
+"slug": "exterior-pallet-gate-peep-hole",
+"title": "Exterior Pallet Gate Peep Hole.jpeg",
+"full": "images/pallet-gate/exterior-pallet-gate-peep-hole.jpg",
+"thumb": "images/pallet-gate/thumbs/exterior-pallet-gate-peep-hole.jpg"
+},
+{
+"category": "pallet-gate",
+"slug": "pallet-gate-front",
+"title": "Pallet Gate Front.jpeg",
+"full": "images/pallet-gate/pallet-gate-front.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-front.jpg"
+},
+{
 "category": "pool-house",
 "slug": "pool-house-overlapping-beam-joint",
 "title": "Pool House - Overlapping Beam Joint.jpeg",
@@ -1009,10 +1072,59 @@
 },
 {
 "category": "the-parlour",
+"slug": "custom-mirrors-and-overhead-product-shelves",
+"title": "Custom Mirrors and Overhead Product Shelves.JPG",
+"full": "images/the-parlour/custom-mirrors-and-overhead-product-shelves.jpg",
+"thumb": "images/the-parlour/thumbs/custom-mirrors-and-overhead-product-shelves.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "pop-up-salon-covid-edition",
+"title": "Pop-Up Salon - COVID Edition.jpg",
+"full": "images/the-parlour/pop-up-salon-covid-edition.jpg",
+"thumb": "images/the-parlour/thumbs/pop-up-salon-covid-edition.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-2016-outside-patio-concept",
+"title": "The Parlour 2016 Outside Patio Concept.JPG",
+"full": "images/the-parlour/the-parlour-2016-outside-patio-concept.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-2016-outside-patio-concept.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-custom-shampoo-bowl-bases",
+"title": "The Parlour - Custom Shampoo Bowl Bases.jpeg",
+"full": "images/the-parlour/the-parlour-custom-shampoo-bowl-bases.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-custom-shampoo-bowl-bases.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-floating-wall-and-backbar-shelf",
 "title": "The Parlour - Floating Wall and Backbar Shelf.JPG",
 "full": "images/the-parlour/the-parlour-floating-wall-and-backbar-shelf.jpg",
 "thumb": "images/the-parlour/thumbs/the-parlour-floating-wall-and-backbar-shelf.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-top-paneling-and-stripped-columns-1",
+"title": "The Parlour - Top Paneling and Stripped Columns 1.jpg",
+"full": "images/the-parlour/the-parlour-top-paneling-and-stripped-columns-1.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-top-paneling-and-stripped-columns-1.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-top-paneling-and-stripped-columns-2",
+"title": "The Parlour - Top Paneling and Stripped Columns 2.jpg",
+"full": "images/the-parlour/the-parlour-top-paneling-and-stripped-columns-2.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-top-paneling-and-stripped-columns-2.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-top-paneling-stripped-columns-and-sanded-trusses",
+"title": "The Parlour - Top Paneling, Stripped Columns and Sanded Trusses.jpg",
+"full": "images/the-parlour/the-parlour-top-paneling-stripped-columns-and-sanded-trusses.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-top-paneling-stripped-columns-and-sanded-trusses.jpg"
 },
 {
 "category": "woodshop",
