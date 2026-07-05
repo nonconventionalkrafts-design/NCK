@@ -126,6 +126,20 @@
 "thumb": "images/casa-aire-y-sol/thumbs/casa-aire-y-sol-outdoor-kitchen-progress.jpg"
 },
 {
+"category": "casa-aire-y-sol",
+"slug": "exterior-bge-nest",
+"title": "Exterior BGE Nest.JPG",
+"full": "images/casa-aire-y-sol/exterior-bge-nest.jpg",
+"thumb": "images/casa-aire-y-sol/thumbs/exterior-bge-nest.jpg"
+},
+{
+"category": "casa-aire-y-sol",
+"slug": "exterior-bge-nest-cook-in-session",
+"title": "Exterior BGE Nest - Cook in Session.JPG",
+"full": "images/casa-aire-y-sol/exterior-bge-nest-cook-in-session.jpg",
+"thumb": "images/casa-aire-y-sol/thumbs/exterior-bge-nest-cook-in-session.jpg"
+},
+{
 "category": "cedar-landing",
 "slug": "cedar-landing-and-stairs",
 "title": "Cedar Landing and Stairs.JPG",
@@ -511,6 +525,13 @@
 "thumb": "images/coffee-nook/thumbs/coffee-nook-upper-door-open-2.jpg"
 },
 {
+"category": "coffee-nook",
+"slug": "fully-custom-coffee-and-pantry-nook-insdie-an-existing-wall",
+"title": "Fully Custom Coffee and Pantry Nook Insdie an Existing Wall.JPG",
+"full": "images/coffee-nook/fully-custom-coffee-and-pantry-nook-insdie-an-existing-wall.jpg",
+"thumb": "images/coffee-nook/thumbs/fully-custom-coffee-and-pantry-nook-insdie-an-existing-wall.jpg"
+},
+{
 "category": "custom-corbel",
 "slug": "costum-corbel-ili-1",
 "title": "Costum Corbel - ILI 1.jpeg",
@@ -568,6 +589,13 @@
 },
 {
 "category": "custom-fence",
+"slug": "custom-fence-panel-install",
+"title": "Custom Fence - Panel Install.jpeg",
+"full": "images/custom-fence/custom-fence-panel-install.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-install.jpg"
+},
+{
+"category": "custom-fence",
 "slug": "custom-fence-panel-install-progress",
 "title": "Custom Fence - Panel Install Progress.JPG",
 "full": "images/custom-fence/custom-fence-panel-install-progress.jpg",
@@ -589,6 +617,20 @@
 },
 {
 "category": "custom-fence",
+"slug": "custom-fence-panels-installed-before-clear-coat",
+"title": "Custom Fence - Panels Installed before Clear Coat.jpeg",
+"full": "images/custom-fence/custom-fence-panels-installed-before-clear-coat.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panels-installed-before-clear-coat.jpg"
+},
+{
+"category": "custom-fence",
+"slug": "custom-fence-panled-with-clear-coat",
+"title": "Custom Fence - Panled with Clear Coat.jpeg",
+"full": "images/custom-fence/custom-fence-panled-with-clear-coat.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panled-with-clear-coat.jpg"
+},
+{
+"category": "custom-fence",
 "slug": "custom-fence-panled-with-clear-coat-perspective",
 "title": "Custom Fence - Panled with Clear Coat Perspective.JPG",
 "full": "images/custom-fence/custom-fence-panled-with-clear-coat-perspective.jpg",
@@ -600,6 +642,13 @@
 "title": "Custom Pool Bench.jpeg",
 "full": "images/custom-pool-bench/custom-pool-bench.jpg",
 "thumb": "images/custom-pool-bench/thumbs/custom-pool-bench.jpg"
+},
+{
+"category": "custom-pool-bench",
+"slug": "custom-pool-bench-2",
+"title": "Custom Pool Bench 2.jpeg",
+"full": "images/custom-pool-bench/custom-pool-bench-2.jpg",
+"thumb": "images/custom-pool-bench/thumbs/custom-pool-bench-2.jpg"
 },
 {
 "category": "custom-pool-bench",
@@ -642,6 +691,13 @@
 "title": "Pool Bench with NCK.JPG",
 "full": "images/custom-pool-bench/pool-bench-with-nck.jpg",
 "thumb": "images/custom-pool-bench/thumbs/pool-bench-with-nck.jpg"
+},
+{
+"category": "custom-pool-bench",
+"slug": "pool-bench-with-nck-2",
+"title": "Pool Bench with NCK 2.jpg",
+"full": "images/custom-pool-bench/pool-bench-with-nck-2.jpg",
+"thumb": "images/custom-pool-bench/thumbs/pool-bench-with-nck-2.jpg"
 },
 {
 "category": "dart-board-enclosure",
@@ -719,6 +775,13 @@
 "title": "Custom Gate Progress.jpeg",
 "full": "images/gate-fence/custom-gate-progress.jpg",
 "thumb": "images/gate-fence/thumbs/custom-gate-progress.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "reclaimed-exterior-saloon-gate",
+"title": "Reclaimed Exterior Saloon Gate.jpeg",
+"full": "images/gate-fence/reclaimed-exterior-saloon-gate.jpg",
+"thumb": "images/gate-fence/thumbs/reclaimed-exterior-saloon-gate.jpg"
 },
 {
 "category": "gate-fence",
@@ -1121,6 +1184,13 @@
 },
 {
 "category": "pallet-gate",
+"slug": "pallet-gate-progress-front",
+"title": "Pallet Gate Progress - Front.jpeg",
+"full": "images/pallet-gate/pallet-gate-progress-front.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-progress-front.jpg"
+},
+{
+"category": "pallet-gate",
 "slug": "pallet-gate-rear",
 "title": "Pallet Gate Rear.jpeg",
 "full": "images/pallet-gate/pallet-gate-rear.jpg",
@@ -1268,6 +1338,13 @@
 },
 {
 "category": "the-parlour",
+"slug": "custom-upper-product-shelves",
+"title": "Custom Upper Product Shelves.jpeg",
+"full": "images/the-parlour/custom-upper-product-shelves.jpg",
+"thumb": "images/the-parlour/thumbs/custom-upper-product-shelves.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "nck-custom-mirrors-and-painting-frames",
 "title": "NCK Custom Mirrors and Painting Frames.jpg",
 "full": "images/the-parlour/nck-custom-mirrors-and-painting-frames.jpg",
@@ -1282,6 +1359,13 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-palour-waiting-room-before-and-after",
+"title": "The Palour Waiting Room Before and After.jpg",
+"full": "images/the-parlour/the-palour-waiting-room-before-and-after.jpg",
+"thumb": "images/the-parlour/thumbs/the-palour-waiting-room-before-and-after.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-2016-alternative-concept-sketch",
 "title": "The Parlour 2016 Alternative Concept Sketch.jpeg",
 "full": "images/the-parlour/the-parlour-2016-alternative-concept-sketch.jpg",
@@ -1289,10 +1373,31 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-2016-floor-plan",
+"title": "The Parlour 2016 Floor Plan.jpg",
+"full": "images/the-parlour/the-parlour-2016-floor-plan.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-2016-floor-plan.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-2016-outside-patio-concept",
 "title": "The Parlour 2016 Outside Patio Concept.JPG",
 "full": "images/the-parlour/the-parlour-2016-outside-patio-concept.jpg",
 "thumb": "images/the-parlour/thumbs/the-parlour-2016-outside-patio-concept.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-custom-banquet-3",
+"title": "The Parlour - Custom Banquet 3.JPG",
+"full": "images/the-parlour/the-parlour-custom-banquet-3.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-custom-banquet-3.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-custom-banquet-4",
+"title": "The Parlour - Custom Banquet 4.JPG",
+"full": "images/the-parlour/the-parlour-custom-banquet-4.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-custom-banquet-4.jpg"
 },
 {
 "category": "the-parlour",
