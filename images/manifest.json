@@ -7,76 +7,6 @@
 "thumb": "images/arendsen/thumbs/arendsen-countertop.jpg"
 },
 {
-"category": "brandy-bar",
-"slug": "brandy-bar-interior",
-"title": "Brandy Bar - Interior.jpeg",
-"full": "images/brandy-bar/brandy-bar-interior.jpg",
-"thumb": "images/brandy-bar/thumbs/brandy-bar-interior.jpg"
-},
-{
-"category": "brandy-bar",
-"slug": "brandy-bar-progress",
-"title": "Brandy Bar - Progress.jpeg",
-"full": "images/brandy-bar/brandy-bar-progress.jpg",
-"thumb": "images/brandy-bar/thumbs/brandy-bar-progress.jpg"
-},
-{
-"category": "brandy-bar",
-"slug": "brandy-bar-redwood-lining",
-"title": "Brandy Bar - Redwood Lining.jpg",
-"full": "images/brandy-bar/brandy-bar-redwood-lining.jpg",
-"thumb": "images/brandy-bar/thumbs/brandy-bar-redwood-lining.jpg"
-},
-{
-"category": "brandy-bar",
-"slug": "brandy-bar-redwood-wine-cask-shelves",
-"title": "Brandy Bar - Redwood, Wine Cask Shelves.jpeg",
-"full": "images/brandy-bar/brandy-bar-redwood-wine-cask-shelves.jpg",
-"thumb": "images/brandy-bar/thumbs/brandy-bar-redwood-wine-cask-shelves.jpg"
-},
-{
-"category": "brandy-bar",
-"slug": "brandy-bar-shelf-staging",
-"title": "Brandy Bar - Shelf Staging.JPG",
-"full": "images/brandy-bar/brandy-bar-shelf-staging.jpg",
-"thumb": "images/brandy-bar/thumbs/brandy-bar-shelf-staging.jpg"
-},
-{
-"category": "brandy-bar",
-"slug": "brandy-bar-shelving-layout",
-"title": "Brandy Bar - Shelving Layout.JPG",
-"full": "images/brandy-bar/brandy-bar-shelving-layout.jpg",
-"thumb": "images/brandy-bar/thumbs/brandy-bar-shelving-layout.jpg"
-},
-{
-"category": "brandy-bar",
-"slug": "brandy-bar-staging",
-"title": "Brandy Bar - Staging.JPG",
-"full": "images/brandy-bar/brandy-bar-staging.jpg",
-"thumb": "images/brandy-bar/thumbs/brandy-bar-staging.jpg"
-},
-{
-"category": "brandy-bar",
-"slug": "brandy-bar-upper-special-reserve",
-"title": "Brandy Bar - Upper Special Reserve.JPG",
-"full": "images/brandy-bar/brandy-bar-upper-special-reserve.jpg",
-"thumb": "images/brandy-bar/thumbs/brandy-bar-upper-special-reserve.jpg"
-},
-{
-"category": "brandy-bar",
-"slug": "brandy-bar-with-mock-lighting-for-warmth",
-"title": "Brandy Bar with Mock Lighting for Warmth.JPG",
-"full": "images/brandy-bar/brandy-bar-with-mock-lighting-for-warmth.jpg",
-"thumb": "images/brandy-bar/thumbs/brandy-bar-with-mock-lighting-for-warmth.jpg"
-},
-{
-"category": "brandy-bar",
-"slug": "wall-mounted-riddling-rack-out-of-focus",
-"title": "Wall Mounted Riddling Rack - Out-of-Focus.jpeg",
-"full": "images/brandy-bar/wall-mounted-riddling-rack-out-of-focus.jpg",
-"thumb": "images/brandy-bar/thumbs/wall-mounted-riddling-rack-out-of-focus.jpg"
-},
-{
 "category": "casa-aire-y-sol",
 "slug": "casa-aire-y-sol-concrete-bench-and-backing",
 "title": "Casa Aire y Sol - Concrete Bench and Backing.jpeg",
@@ -215,6 +145,69 @@
 "title": "Exterior Stairs, Landing, Bench and Railing.JPG",
 "full": "images/cedar-landing/exterior-stairs-landing-bench-and-railing.jpg",
 "thumb": "images/cedar-landing/thumbs/exterior-stairs-landing-bench-and-railing.jpg"
+},
+{
+"category": "coffee-nook",
+"slug": "brandy-bar-interior",
+"title": "Brandy Bar - Interior.jpeg",
+"full": "images/brandy-bar/brandy-bar-interior.jpg",
+"thumb": "images/brandy-bar/thumbs/brandy-bar-interior.jpg"
+},
+{
+"category": "coffee-nook",
+"slug": "brandy-bar-progress",
+"title": "Brandy Bar - Progress.jpeg",
+"full": "images/brandy-bar/brandy-bar-progress.jpg",
+"thumb": "images/brandy-bar/thumbs/brandy-bar-progress.jpg"
+},
+{
+"category": "coffee-nook",
+"slug": "brandy-bar-redwood-lining",
+"title": "Brandy Bar - Redwood Lining.jpg",
+"full": "images/brandy-bar/brandy-bar-redwood-lining.jpg",
+"thumb": "images/brandy-bar/thumbs/brandy-bar-redwood-lining.jpg"
+},
+{
+"category": "coffee-nook",
+"slug": "brandy-bar-redwood-wine-cask-shelves",
+"title": "Brandy Bar - Redwood, Wine Cask Shelves.jpeg",
+"full": "images/brandy-bar/brandy-bar-redwood-wine-cask-shelves.jpg",
+"thumb": "images/brandy-bar/thumbs/brandy-bar-redwood-wine-cask-shelves.jpg"
+},
+{
+"category": "coffee-nook",
+"slug": "brandy-bar-shelf-staging",
+"title": "Brandy Bar - Shelf Staging.JPG",
+"full": "images/brandy-bar/brandy-bar-shelf-staging.jpg",
+"thumb": "images/brandy-bar/thumbs/brandy-bar-shelf-staging.jpg"
+},
+{
+"category": "coffee-nook",
+"slug": "brandy-bar-shelving-layout",
+"title": "Brandy Bar - Shelving Layout.JPG",
+"full": "images/brandy-bar/brandy-bar-shelving-layout.jpg",
+"thumb": "images/brandy-bar/thumbs/brandy-bar-shelving-layout.jpg"
+},
+{
+"category": "coffee-nook",
+"slug": "brandy-bar-staging",
+"title": "Brandy Bar - Staging.JPG",
+"full": "images/brandy-bar/brandy-bar-staging.jpg",
+"thumb": "images/brandy-bar/thumbs/brandy-bar-staging.jpg"
+},
+{
+"category": "coffee-nook",
+"slug": "brandy-bar-upper-special-reserve",
+"title": "Brandy Bar - Upper Special Reserve.JPG",
+"full": "images/brandy-bar/brandy-bar-upper-special-reserve.jpg",
+"thumb": "images/brandy-bar/thumbs/brandy-bar-upper-special-reserve.jpg"
+},
+{
+"category": "coffee-nook",
+"slug": "brandy-bar-with-mock-lighting-for-warmth",
+"title": "Brandy Bar with Mock Lighting for Warmth.JPG",
+"full": "images/brandy-bar/brandy-bar-with-mock-lighting-for-warmth.jpg",
+"thumb": "images/brandy-bar/thumbs/brandy-bar-with-mock-lighting-for-warmth.jpg"
 },
 {
 "category": "coffee-nook",
@@ -588,6 +581,13 @@
 "thumb": "images/coffee-nook/thumbs/fully-custom-coffee-and-pantry-nook-insdie-an-existing-wall.jpg"
 },
 {
+"category": "coffee-nook",
+"slug": "wall-mounted-riddling-rack-out-of-focus",
+"title": "Wall Mounted Riddling Rack - Out-of-Focus.jpeg",
+"full": "images/brandy-bar/wall-mounted-riddling-rack-out-of-focus.jpg",
+"thumb": "images/brandy-bar/thumbs/wall-mounted-riddling-rack-out-of-focus.jpg"
+},
+{
 "category": "crosby-pool-shelter",
 "slug": "crosby-pool-equipment-shelter",
 "title": "Crosby Pool Equipment Shelter.JPG",
@@ -672,125 +672,6 @@
 "thumb": "images/custom-corbel/thumbs/costum-corbel-ili-char-process-2.jpg"
 },
 {
-"category": "custom-fence",
-"slug": "custom-fence-bru",
-"title": "Custom Fence - Bru.JPG",
-"full": "images/custom-fence/custom-fence-bru.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-bru.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-detailing-in-progress",
-"title": "Custom Fence - Detailing in Progress.jpeg",
-"full": "images/custom-fence/custom-fence-detailing-in-progress.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-detailing-in-progress.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-panel-install",
-"title": "Custom Fence - Panel Install.jpeg",
-"full": "images/custom-fence/custom-fence-panel-install.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-panel-install.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-panel-install-2",
-"title": "Custom Fence - Panel Install 2.jpeg",
-"full": "images/custom-fence/custom-fence-panel-install-2.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-panel-install-2.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-panel-install-3",
-"title": "Custom Fence - Panel Install 3.JPG",
-"full": "images/custom-fence/custom-fence-panel-install-3.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-panel-install-3.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-panel-install-progress",
-"title": "Custom Fence - Panel Install Progress.JPG",
-"full": "images/custom-fence/custom-fence-panel-install-progress.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-panel-install-progress.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-panel-install-progress-2",
-"title": "Custom Fence - Panel Install Progress 2.JPG",
-"full": "images/custom-fence/custom-fence-panel-install-progress-2.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-panel-install-progress-2.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-panel-layout",
-"title": "Custom Fence - Panel Layout.jpeg",
-"full": "images/custom-fence/custom-fence-panel-layout.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-panel-layout.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-panel-production",
-"title": "Custom Fence - Panel Production.JPG",
-"full": "images/custom-fence/custom-fence-panel-production.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-panel-production.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-panel-trim-and-detail",
-"title": "Custom Fence - Panel Trim and Detail.JPG",
-"full": "images/custom-fence/custom-fence-panel-trim-and-detail.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-panel-trim-and-detail.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-paneled-series",
-"title": "Custom Fence - Paneled Series.jpeg",
-"full": "images/custom-fence/custom-fence-paneled-series.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-paneled-series.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-panels-installed-before-clear-coat",
-"title": "Custom Fence - Panels Installed before Clear Coat.jpeg",
-"full": "images/custom-fence/custom-fence-panels-installed-before-clear-coat.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-panels-installed-before-clear-coat.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-panled-with-clear-coat",
-"title": "Custom Fence - Panled with Clear Coat.jpeg",
-"full": "images/custom-fence/custom-fence-panled-with-clear-coat.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-panled-with-clear-coat.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-panled-with-clear-coat-perspective",
-"title": "Custom Fence - Panled with Clear Coat Perspective.JPG",
-"full": "images/custom-fence/custom-fence-panled-with-clear-coat-perspective.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-panled-with-clear-coat-perspective.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-pattern-and-design-progress",
-"title": "Custom Fence - Pattern and Design Progress.jpeg",
-"full": "images/custom-fence/custom-fence-pattern-and-design-progress.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-pattern-and-design-progress.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-pony-wall-and-installation-of-column-bases",
-"title": "Custom Fence - Pony Wall and Installation of Column Bases.JPG",
-"full": "images/custom-fence/custom-fence-pony-wall-and-installation-of-column-bases.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-pony-wall-and-installation-of-column-bases.jpg"
-},
-{
-"category": "custom-fence",
-"slug": "custom-fence-rough-layout",
-"title": "Custom Fence - Rough Layout.JPG",
-"full": "images/custom-fence/custom-fence-rough-layout.jpg",
-"thumb": "images/custom-fence/thumbs/custom-fence-rough-layout.jpg"
-},
-{
 "category": "custom-pool-bench",
 "slug": "custom-pool-bench",
 "title": "Custom Pool Bench.jpeg",
@@ -854,34 +735,6 @@
 "thumb": "images/custom-pool-bench/thumbs/pool-bench-with-nck-2.jpg"
 },
 {
-"category": "woodshop",
-"slug": "dart-board-enclosure-2",
-"title": "Dart Board Enclosure 2.jpeg",
-"full": "images/woodshop/dart-board-enclosure-2.jpg",
-"thumb": "images/woodshop/thumbs/dart-board-enclosure-2.jpg"
-},
-{
-"category": "woodshop",
-"slug": "dart-board-enclosure-3",
-"title": "Dart Board Enclosure 3.jpeg",
-"full": "images/woodshop/dart-board-enclosure-3.jpg",
-"thumb": "images/woodshop/thumbs/dart-board-enclosure-3.jpg"
-},
-{
-"category": "woodshop",
-"slug": "dart-board-enclosure-4",
-"title": "Dart Board Enclosure 4.jpeg",
-"full": "images/woodshop/dart-board-enclosure-4.jpg",
-"thumb": "images/woodshop/thumbs/dart-board-enclosure-4.jpg"
-},
-{
-"category": "woodshop",
-"slug": "dart-board-enclousre-door",
-"title": "Dart Board Enclousre Door.jpeg",
-"full": "images/woodshop/dart-board-enclousre-door.jpg",
-"thumb": "images/woodshop/thumbs/dart-board-enclousre-door.jpg"
-},
-{
 "category": "gate-fence",
 "slug": "basic-fence",
 "title": "Basic Fence.jpeg",
@@ -911,6 +764,125 @@
 },
 {
 "category": "gate-fence",
+"slug": "custom-fence-bru",
+"title": "Custom Fence - Bru.JPG",
+"full": "images/custom-fence/custom-fence-bru.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-bru.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-detailing-in-progress",
+"title": "Custom Fence - Detailing in Progress.jpeg",
+"full": "images/custom-fence/custom-fence-detailing-in-progress.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-detailing-in-progress.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-panel-install",
+"title": "Custom Fence - Panel Install.jpeg",
+"full": "images/custom-fence/custom-fence-panel-install.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-install.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-panel-install-2",
+"title": "Custom Fence - Panel Install 2.jpeg",
+"full": "images/custom-fence/custom-fence-panel-install-2.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-install-2.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-panel-install-3",
+"title": "Custom Fence - Panel Install 3.JPG",
+"full": "images/custom-fence/custom-fence-panel-install-3.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-install-3.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-panel-install-progress",
+"title": "Custom Fence - Panel Install Progress.JPG",
+"full": "images/custom-fence/custom-fence-panel-install-progress.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-install-progress.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-panel-install-progress-2",
+"title": "Custom Fence - Panel Install Progress 2.JPG",
+"full": "images/custom-fence/custom-fence-panel-install-progress-2.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-install-progress-2.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-panel-layout",
+"title": "Custom Fence - Panel Layout.jpeg",
+"full": "images/custom-fence/custom-fence-panel-layout.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-layout.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-panel-production",
+"title": "Custom Fence - Panel Production.JPG",
+"full": "images/custom-fence/custom-fence-panel-production.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-production.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-panel-trim-and-detail",
+"title": "Custom Fence - Panel Trim and Detail.JPG",
+"full": "images/custom-fence/custom-fence-panel-trim-and-detail.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panel-trim-and-detail.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-paneled-series",
+"title": "Custom Fence - Paneled Series.jpeg",
+"full": "images/custom-fence/custom-fence-paneled-series.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-paneled-series.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-panels-installed-before-clear-coat",
+"title": "Custom Fence - Panels Installed before Clear Coat.jpeg",
+"full": "images/custom-fence/custom-fence-panels-installed-before-clear-coat.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panels-installed-before-clear-coat.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-panled-with-clear-coat",
+"title": "Custom Fence - Panled with Clear Coat.jpeg",
+"full": "images/custom-fence/custom-fence-panled-with-clear-coat.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panled-with-clear-coat.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-panled-with-clear-coat-perspective",
+"title": "Custom Fence - Panled with Clear Coat Perspective.JPG",
+"full": "images/custom-fence/custom-fence-panled-with-clear-coat-perspective.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-panled-with-clear-coat-perspective.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-pattern-and-design-progress",
+"title": "Custom Fence - Pattern and Design Progress.jpeg",
+"full": "images/custom-fence/custom-fence-pattern-and-design-progress.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-pattern-and-design-progress.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-pony-wall-and-installation-of-column-bases",
+"title": "Custom Fence - Pony Wall and Installation of Column Bases.JPG",
+"full": "images/custom-fence/custom-fence-pony-wall-and-installation-of-column-bases.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-pony-wall-and-installation-of-column-bases.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "custom-fence-rough-layout",
+"title": "Custom Fence - Rough Layout.JPG",
+"full": "images/custom-fence/custom-fence-rough-layout.jpg",
+"thumb": "images/custom-fence/thumbs/custom-fence-rough-layout.jpg"
+},
+{
+"category": "gate-fence",
 "slug": "custom-gate-frame",
 "title": "Custom Gate - Frame.jpeg",
 "full": "images/gate-fence/custom-gate-frame.jpg",
@@ -929,6 +901,90 @@
 "title": "Custom Gate Progress.jpeg",
 "full": "images/gate-fence/custom-gate-progress.jpg",
 "thumb": "images/gate-fence/thumbs/custom-gate-progress.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "exterior-pallet-gate",
+"title": "Exterior Pallet Gate.jpeg",
+"full": "images/pallet-gate/exterior-pallet-gate.jpg",
+"thumb": "images/pallet-gate/thumbs/exterior-pallet-gate.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "exterior-pallet-gate-front",
+"title": "Exterior Pallet Gate Front.jpeg",
+"full": "images/pallet-gate/exterior-pallet-gate-front.jpg",
+"thumb": "images/pallet-gate/thumbs/exterior-pallet-gate-front.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "exterior-pallet-gate-header",
+"title": "Exterior Pallet Gate Header.jpeg",
+"full": "images/pallet-gate/exterior-pallet-gate-header.jpg",
+"thumb": "images/pallet-gate/thumbs/exterior-pallet-gate-header.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "exterior-pallet-gate-peep-hole",
+"title": "Exterior Pallet Gate Peep Hole.jpeg",
+"full": "images/pallet-gate/exterior-pallet-gate-peep-hole.jpg",
+"thumb": "images/pallet-gate/thumbs/exterior-pallet-gate-peep-hole.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "pallet-gate-frame",
+"title": "Pallet Gate Frame.jpeg",
+"full": "images/pallet-gate/pallet-gate-frame.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-frame.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "pallet-gate-front",
+"title": "Pallet Gate Front.jpeg",
+"full": "images/pallet-gate/pallet-gate-front.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-front.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "pallet-gate-front-2",
+"title": "Pallet Gate Front 2.jpeg",
+"full": "images/pallet-gate/pallet-gate-front-2.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-front-2.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "pallet-gate-full-pallet",
+"title": "Pallet Gate Full Pallet.jpeg",
+"full": "images/pallet-gate/pallet-gate-full-pallet.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-full-pallet.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "pallet-gate-layout-front",
+"title": "Pallet Gate Layout Front.jpeg",
+"full": "images/pallet-gate/pallet-gate-layout-front.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-layout-front.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "pallet-gate-pallet",
+"title": "Pallet Gate Pallet.jpeg",
+"full": "images/pallet-gate/pallet-gate-pallet.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-pallet.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "pallet-gate-progress-front",
+"title": "Pallet Gate Progress - Front.jpeg",
+"full": "images/pallet-gate/pallet-gate-progress-front.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-progress-front.jpg"
+},
+{
+"category": "gate-fence",
+"slug": "pallet-gate-rear",
+"title": "Pallet Gate Rear.jpeg",
+"full": "images/pallet-gate/pallet-gate-rear.jpg",
+"thumb": "images/pallet-gate/thumbs/pallet-gate-rear.jpg"
 },
 {
 "category": "gate-fence",
@@ -1279,90 +1335,6 @@
 "title": "CCD22D49-D12B-49EB-AA66-F8CCC76769F5.jpg",
 "full": "images/misc/ccd22d49-d12b-49eb-aa66-f8ccc76769f5.jpg",
 "thumb": "images/misc/thumbs/ccd22d49-d12b-49eb-aa66-f8ccc76769f5.jpg"
-},
-{
-"category": "pallet-gate",
-"slug": "exterior-pallet-gate",
-"title": "Exterior Pallet Gate.jpeg",
-"full": "images/pallet-gate/exterior-pallet-gate.jpg",
-"thumb": "images/pallet-gate/thumbs/exterior-pallet-gate.jpg"
-},
-{
-"category": "pallet-gate",
-"slug": "exterior-pallet-gate-front",
-"title": "Exterior Pallet Gate Front.jpeg",
-"full": "images/pallet-gate/exterior-pallet-gate-front.jpg",
-"thumb": "images/pallet-gate/thumbs/exterior-pallet-gate-front.jpg"
-},
-{
-"category": "pallet-gate",
-"slug": "exterior-pallet-gate-header",
-"title": "Exterior Pallet Gate Header.jpeg",
-"full": "images/pallet-gate/exterior-pallet-gate-header.jpg",
-"thumb": "images/pallet-gate/thumbs/exterior-pallet-gate-header.jpg"
-},
-{
-"category": "pallet-gate",
-"slug": "exterior-pallet-gate-peep-hole",
-"title": "Exterior Pallet Gate Peep Hole.jpeg",
-"full": "images/pallet-gate/exterior-pallet-gate-peep-hole.jpg",
-"thumb": "images/pallet-gate/thumbs/exterior-pallet-gate-peep-hole.jpg"
-},
-{
-"category": "pallet-gate",
-"slug": "pallet-gate-frame",
-"title": "Pallet Gate Frame.jpeg",
-"full": "images/pallet-gate/pallet-gate-frame.jpg",
-"thumb": "images/pallet-gate/thumbs/pallet-gate-frame.jpg"
-},
-{
-"category": "pallet-gate",
-"slug": "pallet-gate-front",
-"title": "Pallet Gate Front.jpeg",
-"full": "images/pallet-gate/pallet-gate-front.jpg",
-"thumb": "images/pallet-gate/thumbs/pallet-gate-front.jpg"
-},
-{
-"category": "pallet-gate",
-"slug": "pallet-gate-front-2",
-"title": "Pallet Gate Front 2.jpeg",
-"full": "images/pallet-gate/pallet-gate-front-2.jpg",
-"thumb": "images/pallet-gate/thumbs/pallet-gate-front-2.jpg"
-},
-{
-"category": "pallet-gate",
-"slug": "pallet-gate-full-pallet",
-"title": "Pallet Gate Full Pallet.jpeg",
-"full": "images/pallet-gate/pallet-gate-full-pallet.jpg",
-"thumb": "images/pallet-gate/thumbs/pallet-gate-full-pallet.jpg"
-},
-{
-"category": "pallet-gate",
-"slug": "pallet-gate-layout-front",
-"title": "Pallet Gate Layout Front.jpeg",
-"full": "images/pallet-gate/pallet-gate-layout-front.jpg",
-"thumb": "images/pallet-gate/thumbs/pallet-gate-layout-front.jpg"
-},
-{
-"category": "pallet-gate",
-"slug": "pallet-gate-pallet",
-"title": "Pallet Gate Pallet.jpeg",
-"full": "images/pallet-gate/pallet-gate-pallet.jpg",
-"thumb": "images/pallet-gate/thumbs/pallet-gate-pallet.jpg"
-},
-{
-"category": "pallet-gate",
-"slug": "pallet-gate-progress-front",
-"title": "Pallet Gate Progress - Front.jpeg",
-"full": "images/pallet-gate/pallet-gate-progress-front.jpg",
-"thumb": "images/pallet-gate/thumbs/pallet-gate-progress-front.jpg"
-},
-{
-"category": "pallet-gate",
-"slug": "pallet-gate-rear",
-"title": "Pallet Gate Rear.jpeg",
-"full": "images/pallet-gate/pallet-gate-rear.jpg",
-"thumb": "images/pallet-gate/thumbs/pallet-gate-rear.jpg"
 },
 {
 "category": "pool-house",
@@ -1860,6 +1832,34 @@
 "title": "The Parour Shampoo Biw.JPG",
 "full": "images/the-parlour/the-parour-shampoo-biw.jpg",
 "thumb": "images/the-parlour/thumbs/the-parour-shampoo-biw.jpg"
+},
+{
+"category": "woodshop",
+"slug": "dart-board-enclosure-2",
+"title": "Dart Board Enclosure 2.jpeg",
+"full": "images/woodshop/dart-board-enclosure-2.jpg",
+"thumb": "images/woodshop/thumbs/dart-board-enclosure-2.jpg"
+},
+{
+"category": "woodshop",
+"slug": "dart-board-enclosure-3",
+"title": "Dart Board Enclosure 3.jpeg",
+"full": "images/woodshop/dart-board-enclosure-3.jpg",
+"thumb": "images/woodshop/thumbs/dart-board-enclosure-3.jpg"
+},
+{
+"category": "woodshop",
+"slug": "dart-board-enclosure-4",
+"title": "Dart Board Enclosure 4.jpeg",
+"full": "images/woodshop/dart-board-enclosure-4.jpg",
+"thumb": "images/woodshop/thumbs/dart-board-enclosure-4.jpg"
+},
+{
+"category": "woodshop",
+"slug": "dart-board-enclousre-door",
+"title": "Dart Board Enclousre Door.jpeg",
+"full": "images/woodshop/dart-board-enclousre-door.jpg",
+"thumb": "images/woodshop/thumbs/dart-board-enclousre-door.jpg"
 },
 {
 "category": "woodshop",
