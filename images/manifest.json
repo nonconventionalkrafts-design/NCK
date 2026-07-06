@@ -8,6 +8,20 @@
 },
 {
 "category": "casa-aire-y-sol",
+"slug": "casa-aire-y-sol-bge-in-session",
+"title": "Casa Aire y Sol - BGE in Session.jpeg",
+"full": "images/casa-aire-y-sol/casa-aire-y-sol-bge-in-session.jpg",
+"thumb": "images/casa-aire-y-sol/thumbs/casa-aire-y-sol-bge-in-session.jpg"
+},
+{
+"category": "casa-aire-y-sol",
+"slug": "casa-aire-y-sol-bge-in-session-2",
+"title": "Casa Aire y Sol - BGE in Session 2.jpeg",
+"full": "images/casa-aire-y-sol/casa-aire-y-sol-bge-in-session-2.jpg",
+"thumb": "images/casa-aire-y-sol/thumbs/casa-aire-y-sol-bge-in-session-2.jpg"
+},
+{
+"category": "casa-aire-y-sol",
 "slug": "casa-aire-y-sol-concrete-bench-and-backing",
 "title": "Casa Aire y Sol - Concrete Bench and Backing.jpeg",
 "full": "images/casa-aire-y-sol/casa-aire-y-sol-concrete-bench-and-backing.jpg",
@@ -215,6 +229,13 @@
 "title": "Coffee Nook - Before Demo.jpg",
 "full": "images/coffee-nook/coffee-nook-before-demo.jpg",
 "thumb": "images/coffee-nook/thumbs/coffee-nook-before-demo.jpg"
+},
+{
+"category": "coffee-nook",
+"slug": "coffee-nook-before-demo-1",
+"title": "Coffee Nook - Before Demo 1.jpeg",
+"full": "images/coffee-nook/coffee-nook-before-demo-1.jpg",
+"thumb": "images/coffee-nook/thumbs/coffee-nook-before-demo-1.jpg"
 },
 {
 "category": "coffee-nook",
@@ -439,6 +460,13 @@
 "title": "Coffee Nook - Lower with Working Fridge.jpeg",
 "full": "images/coffee-nook/coffee-nook-lower-with-working-fridge.jpg",
 "thumb": "images/coffee-nook/thumbs/coffee-nook-lower-with-working-fridge.jpg"
+},
+{
+"category": "coffee-nook",
+"slug": "coffee-nook-sketch",
+"title": "Coffee Nook Sketch.jpeg",
+"full": "images/coffee-nook/coffee-nook-sketch.jpg",
+"thumb": "images/coffee-nook/thumbs/coffee-nook-sketch.jpg"
 },
 {
 "category": "coffee-nook",
@@ -1044,10 +1072,24 @@
 },
 {
 "category": "la-cantina",
+"slug": "la-cantina-elevation-plan",
+"title": "La Cantina - Elevation Plan.jpeg",
+"full": "images/la-cantina/la-cantina-elevation-plan.jpg",
+"thumb": "images/la-cantina/thumbs/la-cantina-elevation-plan.jpg"
+},
+{
+"category": "la-cantina",
 "slug": "la-cantina-layout",
 "title": "La Cantina Layout.jpeg",
 "full": "images/la-cantina/la-cantina-layout.jpg",
 "thumb": "images/la-cantina/thumbs/la-cantina-layout.jpg"
+},
+{
+"category": "la-cantina",
+"slug": "la-cantina-persepective",
+"title": "La Cantina - Persepective.jpeg",
+"full": "images/la-cantina/la-cantina-persepective.jpg",
+"thumb": "images/la-cantina/thumbs/la-cantina-persepective.jpg"
 },
 {
 "category": "la-cantina",
@@ -1093,6 +1135,13 @@
 },
 {
 "category": "la-cantina",
+"slug": "la-cantina-progress-with-nck",
+"title": "La Cantina Progress with NCK.jpeg",
+"full": "images/la-cantina/la-cantina-progress-with-nck.jpg",
+"thumb": "images/la-cantina/thumbs/la-cantina-progress-with-nck.jpg"
+},
+{
+"category": "la-cantina",
 "slug": "la-cantina-progress-with-nck-and-angel",
 "title": "La Cantina Progress with NCK and Angel.jpeg",
 "full": "images/la-cantina/la-cantina-progress-with-nck-and-angel.jpg",
@@ -1118,6 +1167,27 @@
 "title": "La Cantina Protgress 3.jpeg",
 "full": "images/la-cantina/la-cantina-protgress-3.jpg",
 "thumb": "images/la-cantina/thumbs/la-cantina-protgress-3.jpg"
+},
+{
+"category": "la-cantina",
+"slug": "la-cantina-with-tile",
+"title": "La Cantina - with Tile.jpeg",
+"full": "images/la-cantina/la-cantina-with-tile.jpg",
+"thumb": "images/la-cantina/thumbs/la-cantina-with-tile.jpg"
+},
+{
+"category": "la-cantina",
+"slug": "la-cantina-with-tile-side-view",
+"title": "La Cantina - with Tile (Side View).jpeg",
+"full": "images/la-cantina/la-cantina-with-tile-side-view.jpg",
+"thumb": "images/la-cantina/thumbs/la-cantina-with-tile-side-view.jpg"
+},
+{
+"category": "la-cantina",
+"slug": "live-slab-la-cantina",
+"title": "Live Slab - La Cantina.jpeg",
+"full": "images/la-cantina/live-slab-la-cantina.jpg",
+"thumb": "images/la-cantina/thumbs/live-slab-la-cantina.jpg"
 },
 {
 "category": "landscape",
@@ -1153,6 +1223,27 @@
 "title": "Landscape Pony Wall before Paneling.jpeg",
 "full": "images/landscape/landscape-pony-wall-before-paneling.jpg",
 "thumb": "images/landscape/thumbs/landscape-pony-wall-before-paneling.jpg"
+},
+{
+"category": "landscape",
+"slug": "landscape-setting-boulders",
+"title": "Landscape - Setting Boulders.jpeg",
+"full": "images/landscape/landscape-setting-boulders.jpg",
+"thumb": "images/landscape/thumbs/landscape-setting-boulders.jpg"
+},
+{
+"category": "landscape",
+"slug": "landscape-stair-building-progress",
+"title": "Landscape - Stair Building Progress.jpeg",
+"full": "images/landscape/landscape-stair-building-progress.jpg",
+"thumb": "images/landscape/thumbs/landscape-stair-building-progress.jpg"
+},
+{
+"category": "landscape",
+"slug": "landscape-top-fence-and-lighting-progress",
+"title": "Landscape - Top Fence and Lighting Progress.jpeg",
+"full": "images/landscape/landscape-top-fence-and-lighting-progress.jpg",
+"thumb": "images/landscape/thumbs/landscape-top-fence-and-lighting-progress.jpg"
 },
 {
 "category": "landscape",
@@ -1442,6 +1533,34 @@
 "thumb": "images/pool-house/thumbs/pool-house-post-trusses-and-siding-2.jpg"
 },
 {
+"category": "pool-house",
+"slug": "pool-house-siding-corrugated-roof-trim-and-facia",
+"title": "Pool House - Siding, Corrugated Roof, Trim and Facia.jpeg",
+"full": "images/pool-house/pool-house-siding-corrugated-roof-trim-and-facia.jpg",
+"thumb": "images/pool-house/thumbs/pool-house-siding-corrugated-roof-trim-and-facia.jpg"
+},
+{
+"category": "pool-house",
+"slug": "pool-house-siding-corrugated-roof-trim-and-facia-2",
+"title": "Pool House - Siding, Corrugated Roof, Trim and Facia 2.jpeg",
+"full": "images/pool-house/pool-house-siding-corrugated-roof-trim-and-facia-2.jpg",
+"thumb": "images/pool-house/thumbs/pool-house-siding-corrugated-roof-trim-and-facia-2.jpg"
+},
+{
+"category": "pool-house",
+"slug": "pool-house-siding-trim-and-facia",
+"title": "Pool House - Siding, Trim and Facia.jpeg",
+"full": "images/pool-house/pool-house-siding-trim-and-facia.jpg",
+"thumb": "images/pool-house/thumbs/pool-house-siding-trim-and-facia.jpg"
+},
+{
+"category": "pool-house",
+"slug": "pool-house-siding-trim-and-facia-2",
+"title": "Pool House - Siding, Trim and Facia 2.jpeg",
+"full": "images/pool-house/pool-house-siding-trim-and-facia-2.jpg",
+"thumb": "images/pool-house/thumbs/pool-house-siding-trim-and-facia-2.jpg"
+},
+{
 "category": "the-parlour",
 "slug": "custom-double-barn-doors",
 "title": "Custom Double Barn Doors.jpeg",
@@ -1695,6 +1814,20 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-custom-hanging-living-wall",
+"title": "The Parlour - Custom Hanging Living Wall.jpeg",
+"full": "images/the-parlour/the-parlour-custom-hanging-living-wall.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-custom-hanging-living-wall.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-custom-living-wall-2",
+"title": "The Parlour - Custom Living Wall 2.jpeg",
+"full": "images/the-parlour/the-parlour-custom-living-wall-2.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-custom-living-wall-2.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-custom-shampoo-bowl-bases",
 "title": "The Parlour - Custom Shampoo Bowl Bases.jpeg",
 "full": "images/the-parlour/the-parlour-custom-shampoo-bowl-bases.jpg",
@@ -1702,10 +1835,24 @@
 },
 {
 "category": "the-parlour",
+"slug": "the-parlour-custom-station-and-shampoo-section",
+"title": "The Parlour - Custom Station and Shampoo Section.jpeg",
+"full": "images/the-parlour/the-parlour-custom-station-and-shampoo-section.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-custom-station-and-shampoo-section.jpg"
+},
+{
+"category": "the-parlour",
 "slug": "the-parlour-custom-station-installation",
 "title": "The Parlour - Custom Station Installation.JPG",
 "full": "images/the-parlour/the-parlour-custom-station-installation.jpg",
 "thumb": "images/the-parlour/thumbs/the-parlour-custom-station-installation.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-custom-stations-steel-frame-and-concrete-tops",
+"title": "The Parlour - Custom Stations - Steel Frame and Concrete Tops.jpeg",
+"full": "images/the-parlour/the-parlour-custom-stations-steel-frame-and-concrete-tops.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-custom-stations-steel-frame-and-concrete-tops.jpg"
 },
 {
 "category": "the-parlour",
@@ -1825,6 +1972,13 @@
 "title": "The Parlour - Torched Ceiling and Roof Framing.JPG",
 "full": "images/the-parlour/the-parlour-torched-ceiling-and-roof-framing.jpg",
 "thumb": "images/the-parlour/thumbs/the-parlour-torched-ceiling-and-roof-framing.jpg"
+},
+{
+"category": "the-parlour",
+"slug": "the-parlour-work-in-progress",
+"title": "The Parlour - Work in Progress.jpeg",
+"full": "images/the-parlour/the-parlour-work-in-progress.jpg",
+"thumb": "images/the-parlour/thumbs/the-parlour-work-in-progress.jpg"
 },
 {
 "category": "the-parlour",
@@ -2000,6 +2154,188 @@
 "title": "NCK Woodshop Wine Holder.jpeg",
 "full": "images/woodshop/nck-woodshop-wine-holder.jpg",
 "thumb": "images/woodshop/thumbs/nck-woodshop-wine-holder.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-a-job-well-done",
+"title": "Woodshop - A Job Well Done.jpg",
+"full": "images/woodshop/woodshop-a-job-well-done.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-a-job-well-done.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-birdhouse-prototype",
+"title": "Woodshop - Birdhouse Prototype.jpeg",
+"full": "images/woodshop/woodshop-birdhouse-prototype.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-birdhouse-prototype.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-birdhouses",
+"title": "Woodshop - Birdhouses.jpeg",
+"full": "images/woodshop/woodshop-birdhouses.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-birdhouses.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-birdhouses-in-progress",
+"title": "Woodshop - Birdhouses in Progress.jpeg",
+"full": "images/woodshop/woodshop-birdhouses-in-progress.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-birdhouses-in-progress.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-bread-boxes-in-progress",
+"title": "Woodshop - Bread Boxes in Progress.jpeg",
+"full": "images/woodshop/woodshop-bread-boxes-in-progress.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-bread-boxes-in-progress.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-breadboxes-in-progress",
+"title": "Woodshop - Breadboxes in Progress.jpeg",
+"full": "images/woodshop/woodshop-breadboxes-in-progress.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-breadboxes-in-progress.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-charred-christmas-trees-at-market",
+"title": "Woodshop - Charred Christmas Trees at Market",
+"full": "images/woodshop/woodshop-charred-christmas-trees-at-market.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-charred-christmas-trees-at-market.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-charred-tool-caddies-at-market",
+"title": "Woodshop - Charred Tool Caddies at Market",
+"full": "images/woodshop/woodshop-charred-tool-caddies-at-market.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-charred-tool-caddies-at-market.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-christmas-tree-and-star-in-progress",
+"title": "Woodshop - Christmas Tree and Star in Progress",
+"full": "images/woodshop/woodshop-christmas-tree-and-star-in-progress.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-christmas-tree-and-star-in-progress.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-christmas-trees",
+"title": "Woodshop - Christmas Trees.jpeg",
+"full": "images/woodshop/woodshop-christmas-trees.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-christmas-trees.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-christmas-trees-with-stars",
+"title": "Woodshop - Christmas Trees with Stars.jpeg",
+"full": "images/woodshop/woodshop-christmas-trees-with-stars.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-christmas-trees-with-stars.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-oh-christmas-tree",
+"title": "Woodshop - Oh Christmas Tree.jpeg",
+"full": "images/woodshop/woodshop-oh-christmas-tree.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-oh-christmas-tree.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-shelves",
+"title": "Woodshop - Shelves.jpeg",
+"full": "images/woodshop/woodshop-shelves.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-shelves.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-shelves-2",
+"title": "Woodshop - Shelves 2.jpeg",
+"full": "images/woodshop/woodshop-shelves-2.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-shelves-2.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-small-planter",
+"title": "Woodshop - Small Planter.jpeg",
+"full": "images/woodshop/woodshop-small-planter.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-small-planter.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-small-planter-start",
+"title": "Woodshop - Small Planter Start.jpeg",
+"full": "images/woodshop/woodshop-small-planter-start.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-small-planter-start.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-violin-stand",
+"title": "Woodshop - Violin Stand.jpeg",
+"full": "images/woodshop/woodshop-violin-stand.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-violin-stand.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-violin-stand-2",
+"title": "Woodshop - Violin Stand 2.jpeg",
+"full": "images/woodshop/woodshop-violin-stand-2.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-violin-stand-2.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-wine-holders",
+"title": "Woodshop - Wine Holders.jpeg",
+"full": "images/woodshop/woodshop-wine-holders.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-wine-holders.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-wine-rack-building",
+"title": "Woodshop - Wine Rack Building.jpeg",
+"full": "images/woodshop/woodshop-wine-rack-building.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-wine-rack-building.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-wood-carving",
+"title": "Woodshop - Wood Carving.jpeg",
+"full": "images/woodshop/woodshop-wood-carving.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-wood-carving.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-wood-carving-2",
+"title": "Woodshop - Wood Carving 2.jpeg",
+"full": "images/woodshop/woodshop-wood-carving-2.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-wood-carving-2.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-wood-carving-3",
+"title": "Woodshop - Wood Carving 3.jpeg",
+"full": "images/woodshop/woodshop-wood-carving-3.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-wood-carving-3.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-work-in-progress",
+"title": "Woodshop - Work in Progress.jpg",
+"full": "images/woodshop/woodshop-work-in-progress.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-work-in-progress.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-work-in-progress-2",
+"title": "Woodshop - Work in Progress 2.jpg",
+"full": "images/woodshop/woodshop-work-in-progress-2.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-work-in-progress-2.jpg"
+},
+{
+"category": "woodshop",
+"slug": "woodshop-work-in-progress-3",
+"title": "Woodshop - Work in Progress 3.jpeg",
+"full": "images/woodshop/woodshop-work-in-progress-3.jpg",
+"thumb": "images/woodshop/thumbs/woodshop-work-in-progress-3.jpg"
 },
 {
 "category": "zipline-platform",
