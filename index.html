@@ -637,10 +637,27 @@
   toggle.addEventListener('click', () => links.classList.toggle('open'));
   links.querySelectorAll('a').forEach(a => a.addEventListener('click', () => links.classList.remove('open')));
 
-  const io = new IntersectionObserver((entries) => {
-    entries.forEach(e => { if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); } });
-  }, { threshold: 0.12 });
-  document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+  // Reveal on scroll. threshold:0 (fires the moment any edge enters) instead of
+  // a ratio — tall single-column grids on mobile can be several times the
+  // viewport height, so a ratio threshold like 0.12 is unreachable and the grid
+  // would stay hidden (images never appear).
+  const revealEl = el => el.classList.add('in');
+  if ('IntersectionObserver' in window) {
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => { if(e.isIntersecting){ revealEl(e.target); io.unobserve(e.target); } });
+    }, { threshold: 0, rootMargin: '0px 0px -5% 0px' });
+    document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+    // Fail-safe: if anything is still hidden but already sits within the
+    // viewport shortly after load, show it (covers any missed intersection).
+    window.addEventListener('load', () => setTimeout(() => {
+      document.querySelectorAll('.reveal:not(.in)').forEach(el => {
+        if (el.getBoundingClientRect().top < window.innerHeight) revealEl(el);
+      });
+    }, 500));
+  } else {
+    // No observer support: never hide content.
+    document.querySelectorAll('.reveal').forEach(revealEl);
+  }
 
   const WORK_PHOTOS = [
     { category: 'work', slug: 'live-edge-torrey-pine-sanding', title: 'Torrey pine slab — sanding', full: 'images/work/live-edge-torrey-pine-sanding.jpg', thumb: 'images/work/thumbs/live-edge-torrey-pine-sanding.jpg' },
