@@ -197,6 +197,16 @@
     transition:background .3s ease;
   }
   .mat-card:hover{background:var(--parchment-dim);}
+  .mat-photo{
+    margin:-2.6rem -2rem 1.8rem;
+    height:190px;overflow:hidden;
+    border-bottom:1px solid var(--line);
+  }
+  .mat-photo img{
+    width:100%;height:100%;object-fit:cover;display:block;
+    transition:transform .6s ease;
+  }
+  .mat-card:hover .mat-photo img{transform:scale(1.045);}
   .mat-index{font-family:'IBM Plex Mono',monospace;font-size:0.7rem;color:var(--brass);letter-spacing:0.1em;}
   .mat-card h3{font-size:1.5rem;margin:0.9rem 0 0.7rem;color:var(--ink);}
   .mat-role{
@@ -535,18 +545,21 @@
   </div>
   <div class="mat-grid reveal">
     <div class="mat-card">
+      <div class="mat-photo"><img src="images/materials/wood.jpg" loading="lazy" alt="Live-edge torrey pine slab"></div>
       <span class="mat-index">MAT / 01</span>
       <span class="mat-role">Primary</span>
       <h3>Wood</h3>
       <p>Domestic hardwoods and reclaimed timber, chosen for the story already in the grain. It's where every piece starts — and usually where it's still speaking loudest when it's finished.</p>
     </div>
     <div class="mat-card">
+      <div class="mat-photo"><img src="images/materials/steel.jpg" loading="lazy" alt="Blackened steel strap-hinge and raw metal stock"></div>
       <span class="mat-index">MAT / 02</span>
       <span class="mat-role secondary">Secondary</span>
       <h3>Steel</h3>
       <p>Blackened and raw steel, brought in to give a piece its edge — literally and otherwise. A quiet nod to the trade this practice was built from.</p>
     </div>
     <div class="mat-card">
+      <div class="mat-photo"><img src="images/materials/concrete.jpg" loading="lazy" alt="Hand-polishing a cast concrete counter"></div>
       <span class="mat-index">MAT / 03</span>
       <span class="mat-role secondary">Secondary</span>
       <h3>Concrete</h3>
