@@ -115,9 +115,21 @@
     padding:8rem 5vw 4rem;
     overflow:hidden;
   }
+  /* Hero background photo with a warm-dark scrim (heavier at left for the headline) */
+  .hero::before{
+    content:'';position:absolute;inset:0;z-index:0;pointer-events:none;
+    background:
+      linear-gradient(100deg, rgba(20,17,14,0.96) 0%, rgba(20,17,14,0.82) 40%, rgba(20,17,14,0.5) 68%, rgba(20,17,14,0.28) 100%),
+      linear-gradient(0deg, rgba(20,17,14,0.92) 0%, rgba(20,17,14,0) 44%),
+      url('images/casa-aire-y-sol/exterior-bge-nest-flagstone-redwood-doors-and-countertop.jpg');
+    background-size:cover;
+    background-position:center, center, center right;
+    background-repeat:no-repeat;
+  }
+  .hero > *{position:relative;z-index:1;}
   .hero::after{
-    content:'';position:absolute;right:-10%;top:-10%;width:60%;height:120%;
-    background:radial-gradient(circle, rgba(168,72,28,0.08), transparent 60%);
+    content:'';position:absolute;right:-10%;top:-10%;width:60%;height:120%;z-index:0;
+    background:radial-gradient(circle, rgba(168,72,28,0.10), transparent 60%);
     pointer-events:none;
   }
   .hero-tag{
@@ -463,6 +475,14 @@
     .gallery-grid{grid-template-columns:1fr;}
     section{padding:4.5rem 6vw;}
     .hero{padding:7rem 6vw 3.5rem;}
+    /* Stronger, more even scrim on phones so the headline stays legible */
+    .hero::before{
+      background:
+        linear-gradient(180deg, rgba(20,17,14,0.74) 0%, rgba(20,17,14,0.6) 40%, rgba(20,17,14,0.92) 100%),
+        url('images/casa-aire-y-sol/exterior-bge-nest-flagstone-redwood-doors-and-countertop.jpg');
+      background-size:cover;
+      background-position:center, center;
+    }
   }
 </style>
 </head>
